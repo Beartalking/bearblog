@@ -6,6 +6,8 @@
 
 Finally read Just Enough Research by Erika Hall during the holiday, which has been on my reading list for a while. Wow! I feel bad after reading this book: why didn’t I read it when I started my UX design career!? I would avoid so many pitfalls and have many better outcomes if I followed some suggestions from this book!
 
+%[https://youtu.be/un1BHArms1A]
+
 I’ll review the book from a personal point of view later (if you are interested, Erika summarised her book in [this awesome video](https://youtu.be/5WtB5FRn-Sc) ), and just attach my book notes for now. Five things that blew my design mind from this book:
 
 1️⃣ Surveys are the most difficult research method of all.
