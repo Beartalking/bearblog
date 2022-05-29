@@ -10,3 +10,5 @@
 
 我觉得他的艺术成长和MC.Eacher很像，都是先通过大量训练完全精通了透视，然后就可以自由地借助线条和视觉创造不可思议的奇观。当然从开创性来说金政基还差Eacher一些。
 ![](https://i.imgur.com/dE9f0aU.jpg)
+
+%[https://youtu.be/7tQ5INPGA9c]
