@@ -10,5 +10,7 @@ This time, I took it to another level: not only draw avatars for each person of 
 
 and created a component background which is easy to customize colors or styles.
 
+%[https://youtu.be/pzeSPmy5_ug]
+
 Result? So good! Everyone loves it! And some peers immediately changed their Slack thumbnails - a great way to finish Friday’s work 😃
 ![](https://i.imgur.com/mgXSBEL.jpg)
