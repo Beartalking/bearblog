@@ -12,4 +12,6 @@ On the other hand, if I felt like the decisions weren’t the best for the proje
 
 So the next time you feel like you’re up against the whole world, remember to trust the expertise of the people around you and focus on the things you can control.
 
-%%\[[https://youtu.be/WvrFh7EU3a8](https://youtu.be/WvrFh7EU3a8)\]
+\[[https://youtu.be/WvrFh7EU3a8](https://youtu.be/WvrFh7EU3a8)\]
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WvrFh7EU3a8"></iframe>
