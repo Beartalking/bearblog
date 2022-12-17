@@ -1,4 +1,4 @@
-# 《雪崩》：40年前的塞伯朋友科幻，目前大都实现了
+# 《雪崩》：40年前的塞伯朋克科幻，目前大都实现了
 
 
 ![40651883._SY475_.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1669423836646/ZhxfF1TOu.jpg align="left")
