@@ -68,3 +68,9 @@ Webflow制作前端，Airtable负责后端数据库，甚至连嘉宾提交申�
 ![IMG_6496](https://i.imgur.com/Oxy5XgT.jpg align="left")
 
 > 开始的前一天，现场已经布置就序
+
+### 两期专题播客
+
+%[https://open.spotify.com/episode/1NzX2csII5g3ZPIZcZrVMS?si=4e4adb772def4ec6] 
+
+%[https://open.spotify.com/episode/2dT49p3L9PPuKMkJXPRSBm?si=019d390576f345f6]
