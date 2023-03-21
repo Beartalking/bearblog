@@ -2,7 +2,7 @@
 title: "Case study: Vodafone DataUp UX"
 datePublished: Sun Mar 14 2021 02:43:09 GMT+0000 (Coordinated Universal Time)
 cuid: clfhnii23000309jpal3xbnsv
-slug: case-study-vodafone-dataup-ux
+slug: vodafone-dataup
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1679365630972/bc2b42f5-fb2f-449b-ad32-8d7e3ab39413.png
 tags: ux-design, case-study, design-case-study
 
