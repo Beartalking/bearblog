@@ -3,7 +3,7 @@ title: "iBeads - i佛珠"
 datePublished: Sun Mar 22 2015 00:40:55 GMT+0000 (Coordinated Universal Time)
 cuid: clfiyl4rw000a09l20pln7mhx
 slug: ibeads-i
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1679445614568/be74ae10-e469-4f4c-85d7-6971f8c4f866.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1679445754975/c9665bdd-72fb-4584-aa4d-c4cd2be9444c.png
 tags: ux, ui, ux-design, design-case-study
 
 ---
