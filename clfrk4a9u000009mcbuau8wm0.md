@@ -36,3 +36,34 @@ tags: ai
 就我自己来说，第一条路走了几十年，经过了两种语言和文化的历练，还算有些经验和方法了。现在我会花一些时间和精力，来研究第二条路，两条路同时走。
 
 对这个话题感兴趣的，订阅我的中文邮件 [bearliu.substack.com](http://bearliu.substack.com) 或是关注我的博客 [beartalking.com](http://beartalking.com) ，之后会分享更多关于AI的东西。
+
+---
+
+Are you tired or exhausted with all the AI-related news and posts? I am! But then I realised I couldn’t avoid it, so I started to think (as a designer), how am I going to deal with it?
+
+Then I got this thought - actually, I picked it up from the classic sci-fi novel "Snow Crash":
+
+**We process problems and information through our own brains and mental models. Think of it like an operating system.**
+
+But here's the thing, everyone's operating system is different. Some are fast, some are slow, some have errors(bias).
+
+Even before computers and the internet came around, some people could use others to help them process information or manage affairs. They could hire dedicated personnel to help them complete tasks. The ultimate embodiment of such people is an emperor of an empire. All the people in the country are his "agents," and he controls and even owns these people.
+
+Later technological advancements gave ordinary people the ability to use "agents" as well. For example, the steam engine was an agent that freed people from physical labor. Later, computers, personal computers, and the internet all were.
+
+Nowadays, we have AI, and the range of agents has been expanded again.
+
+However, most people's operating systems have not improved, so their imagination is also limited when it comes to using AI. For example, a contact of my friend asked GPT the first question: how to pick the lottery number. I joked that this is probably most people's first thought: can it help me make money? Can it help me save money and time? Can it help me pick up girls/guys?
+
+To survive in the age of AI explosion, there are two ways:
+
+1. **Improve the performance and bandwidth of your own operating system.**
+    
+2. **Study how to use agents to help solve practical problems,** thereby freeing up more time and resources to improve your own operating system.
+    
+
+The first path is a long-term direction that needs to be pursued regardless of whether there is AI or not. The second path requires flexibility and adjustment depending on the situation.
+
+For myself, I've been working on the first path for decades, with two languages and cultures, and gaining some experience and methods. Now, I'll spend some time and effort to study the second path while continuing on the first path.
+
+This is inevitable, so I will start to deal with it.
