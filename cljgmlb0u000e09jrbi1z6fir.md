@@ -2,7 +2,7 @@
 title: "Keynote session with Stripe - Bear's Config2023 learning notes"
 datePublished: Thu Jun 29 2023 04:08:34 GMT+0000 (Coordinated Universal Time)
 cuid: cljgmlb0u000e09jrbi1z6fir
-slug: keynote-session-with-stripe-bears-config2023-learning-notes
+slug: stripe-config2023
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1688011578250/9f46e998-d30b-4304-b795-1729ab73fcee.png
 tags: design, config, figma, config2023
 
