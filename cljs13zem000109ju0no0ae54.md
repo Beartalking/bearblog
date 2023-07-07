@@ -8,7 +8,7 @@ tags: learning, youtube, chatgpt
 
 ---
 
-%\[[https://youtu.be/Be11wvCOcSY](https://youtu.be/Be11wvCOcSY)\]
+%[https://youtu.be/Be11wvCOcSY] 
 
 ### High-stake videos on YouTube
 
