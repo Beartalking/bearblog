@@ -3,7 +3,7 @@ title: "Learning UX principles from the game Path of Exile 2"
 seoTitle: "Path of Exile"
 datePublished: Sat Jul 29 2023 22:09:18 GMT+0000 (Coordinated Universal Time)
 cuid: clkokeouk000409mkb6oy5d3a
-slug: learning-ux-principles-from-the-game-path-of-exile-2
+slug: path-of-exile-ux
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1690668456442/ade91f90-2a62-443b-92c4-6a81832f47fd.jpeg
 tags: design, ux, games
 
