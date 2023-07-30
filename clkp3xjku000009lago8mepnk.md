@@ -3,6 +3,7 @@ title: "Wwdc 2023评论：苹果的最新产品和功能 - 狗熊有话说454"
 datePublished: Fri Jun 16 2023 07:15:38 GMT+0000 (Coordinated Universal Time)
 cuid: clkp3xjku000009lago8mepnk
 slug: beartalk-454
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1690701646487/683ca73a-0a07-4d93-ab00-2a23be148574.png
 tags: design, podcast, wwdc23
 
 ---
