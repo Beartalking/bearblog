@@ -17,11 +17,15 @@ This weekend, a friend invited me to ExileCon, a gaming event for fans of Path o
 
 This principle was executed brilliantly in Path of Exile. For instance, when designing the game items, the team ensured that all the shields faced the same direction. This meant that even with a quick glance, gamers could identify an item, reducing their cognitive load. Considering there are hundreds of different items in the game, ordering them in a way that's easy to recognize and choose is a fantastic way to keep the cognitive load low.
 
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1690686939881/efeda86d-df5e-4891-bac3-fc0fd9a32a65.png align="center")
+
 Next, let's talk about **reducing friction**. When you're playing a game, unexpected obstacles or confusion can throw off your whole experience. Path of Exile made some smart moves to avoid this. In the upcoming game version, Path of Exile 2, the developers have come up with an inventive way of introducing new information without disturbing gameplay.
 
 Let's say a gamer arrives in a new environment and needs information about that location. Instead of popping up a notice board or having the gamer return to an information center, the game allows you to summon an NPC (a non-player character, like a bounty hunter) who can read the scenario and provide you with the info you need. This ingenious solution helps gamers understand the story without pausing gameplay or disrupting the narrative flow 🗣️
 
 These gaming moments may seem trivial to non-gamers like me, but to see the crowd's reaction to tiny details - cheering and clapping - was quite an experience. Whether it was the option to pet a puppy in the game, or the ability to create unique gemstones to customize character skill sets, every little enhancement was met with jubilation. To me, this was a powerful demonstration of **knowing and listening to your customers** - the bedrock of good UX 👏
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1690686957937/18ac3af2-5637-4020-adf6-00120da18d77.jpeg align="center")
 
 ExileCon was a great reminder that the principles of UX design apply far beyond apps and websites. It's not just about arranging pixels on a screen, it's about understanding your users and creating an environment that responds to their needs. Whether you're designing a software interface or a fantasy world, the principles remain the same 💡
 
