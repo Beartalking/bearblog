@@ -11,6 +11,8 @@ tags: design, ux, games
 
 So here's a surprise - I found myself amidst a sea of enthusiastic gamers at a game con. This unexpected journey into the world of gaming helped me discover how the UX principles I work with every day have found a home in an industry I'm not so familiar with 🎮
 
+%[https://youtu.be/wByC_vSh9kw] 
+
 This weekend, a friend invited me to ExileCon, a gaming event for fans of Path of Exile. Although I'd never played the game or any similar games like Diablo, I thought, why not? Let's jump in and see what happens. To my surprise, I stumbled upon some intriguing applications of UX principles in the gaming world.
 
 🧠 Let's start with c**ognitive load** - that's the mental effort required by your users to process and understand the information in your product. Given that our cognitive capacity is a limited resource, we, as designers, need to make information clear and easy to understand.
