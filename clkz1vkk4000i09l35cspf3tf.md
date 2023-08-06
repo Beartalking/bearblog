@@ -3,6 +3,7 @@ title: "如何搞定关键性对话？- 狗熊有话说456"
 datePublished: Fri Jul 28 2023 06:15:22 GMT+0000 (Coordinated Universal Time)
 cuid: clkz1vkk4000i09l35cspf3tf
 slug: beartalk456
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1691303003171/f5acaa88-3f40-4bdc-910f-75e4aae446ad.jpeg
 tags: podcast, beartalk
 
 ---
