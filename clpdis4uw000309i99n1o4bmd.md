@@ -14,7 +14,7 @@ tags: communication
 
 《Crucial Conversations》一书在商业领域广受欢迎，包括David Allen和Steven Colby等知名人士的推荐。这本书主要探讨关键性对话的本质，包括其中的风险、冲突和情感因素。关键对话通常涉及高风险、相反观点和强烈情感，如何妥善处理这些对话是职场上不可或缺的技能。
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/431eba7e-7268-483b-8228-c67b75be9938/6a08f44b-239a-4bea-a393-0edc802e0d28/Untitled.png align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1700884652332/e23e0b5e-99d5-4e81-870e-cdea6d094f54.png align="center")
 
 ## **关键对话的定义与重要性**
 
