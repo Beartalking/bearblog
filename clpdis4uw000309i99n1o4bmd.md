@@ -10,6 +10,8 @@ tags: communication
 
 近期，我参加了一次关于《Crucial Conversations》一书的培训。虽然我没有完整阅读这本书，但这次高密度的工作坊为我提供了深入理解和新的启发。今天，我们就来探讨这本书和我在培训中的一些收获。
 
+%[https://www.youtube.com/watch?v=PQ71JtHGg5A] 
+
 ## **书籍简介与重点内容**
 
 《Crucial Conversations》一书在商业领域广受欢迎，包括David Allen和Steven Colby等知名人士的推荐。这本书主要探讨关键性对话的本质，包括其中的风险、冲突和情感因素。关键对话通常涉及高风险、相反观点和强烈情感，如何妥善处理这些对话是职场上不可或缺的技能。
