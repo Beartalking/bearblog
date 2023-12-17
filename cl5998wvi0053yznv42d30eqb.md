@@ -1,4 +1,11 @@
-## 开始初步接触内容生产的自动化
+---
+title: "开始初步接触内容生产的自动化"
+datePublished: Tue May 24 2022 07:04:29 GMT+0000 (Coordinated Universal Time)
+cuid: cl5998wvi0053yznv42d30eqb
+slug: explore-airtable
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1657091045487/nNgGDodEk.png
+
+---
 
 ![skp_starter_pack_banner](https://i.imgur.com/igxIplv.png)
 
