@@ -1,4 +1,11 @@
-## 女孩乘滴滴顺风车遇害之后，我想讲两个故事
+---
+title: "女孩乘滴滴顺风车遇害之后，我想讲两个故事"
+datePublished: Mon Aug 27 2018 12:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2vcuonw020mt4nv5jj4fm42
+slug: watch-out-when-travel
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651896990729/a6EEiph8n.jpg
+
+---
 
 ![](https://i.imgur.com/8CjmoI0.jpg)
 
