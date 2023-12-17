@@ -1,4 +1,11 @@
-## 有人说这是“教程书级的职场沟通案例” Weekly第48周 / 狗熊有话说
+---
+title: "有人说这是“教程书级的职场沟通案例” Weekly第48周 / 狗熊有话说"
+datePublished: Sat Dec 07 2019 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2u4h1l400wo8rnvckrqd9f3
+slug: weekly48-2019
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651822473627/Y5_eP5sTG.jpg
+
+---
 
 ![IMG_2655](https://i.imgur.com/3LTAgsZ.jpg)
 
