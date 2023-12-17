@@ -1,4 +1,11 @@
-# 瑞·达利欧的《原则：应对变化中的世界秩序》
+---
+title: "瑞·达利欧的《原则：应对变化中的世界秩序》"
+datePublished: Thu Oct 20 2022 00:18:26 GMT+0000 (Coordinated Universal Time)
+cuid: clax6pj3g000408ju9xfea51b
+slug: 55gewrfovr7liknmrkfnmotjgirljplijnvvjrluptlr7nlj5jljjbkuk3nmotkujbnlyznp6nluojgis
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1669421886531/qa7n232AI.jpeg
+
+---
 
 瑞·达利欧的《原则：应对变化中的世界秩序》读完了。前半部分我读的英文版，各种政治、经济术语折磨得我欲仙欲死，然后放弃折腾，决定用自家的高效阅读法，并切换到中文版，三天内读完了剩余的后半本。收获的话最简单来说就三个字：唤醒感。读完后再看很多天天在微博和Twitter发生的事情，都看到了其背后的意义。
 具体思考过程是这本书里最宝贵的，但也很难一两句话说清，所以为了简单易记，我就直接分享书的推断和部分结论了。感兴趣的朋友，请自行阅读原书。
