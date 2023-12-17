@@ -1,4 +1,12 @@
-## A few unpopular thoughts on Adobe acquiring Figma
+---
+title: "A few unpopular thoughts on Adobe acquiring Figma"
+datePublished: Sat Oct 01 2022 02:24:38 GMT+0000 (Coordinated Universal Time)
+cuid: cl8pajsgn000709id83bxha56
+slug: adobe-acquires-figma
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/mr4JG4SYOF8/upload/v1664591017688/S3ZuU5f-A.jpeg
+tags: adobe, design, figma
+
+---
 
 %[https://www.youtube.com/watch?v=kwMojPFoyw8&feature=youtu.be]
 
