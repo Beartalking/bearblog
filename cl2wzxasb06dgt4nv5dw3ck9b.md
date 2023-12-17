@@ -1,4 +1,11 @@
-## 买不起学区房，孩子就完蛋了？
+---
+title: "买不起学区房，孩子就完蛋了？"
+datePublished: Fri Jul 13 2018 12:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2wzxasb06dgt4nv5dw3ck9b
+slug: school-zone-for-kid
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651996176515/M0UzYue7v.jpg
+
+---
 
 ![pan-xiaozhen-423533-unsplash](https://i.imgur.com/4DXpgre.jpg)
 
