@@ -1,4 +1,11 @@
-## 从马戏团舞蹈演员到顶尖软件公司设计总监
+---
+title: "从马戏团舞蹈演员到顶尖软件公司设计总监"
+datePublished: Sun Feb 06 2022 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2sslrov0026mgnv5esu08pz
+slug: unlimit-career
+tags: career
+
+---
 
 《枪炮钢铁与病菌》的作者有一个观点：历史上的一些技术，之所以能够在出现之后其他国家也很快出现竞争者，其实并不是因为技术传到了那个国家，而是只是因为知道这样的结果是能实现的，就会有信心，然后倒逼而产生了具体的发明。
 
