@@ -1,4 +1,11 @@
-## 看大阅兵时我走神了…… | 狗熊有话说
+---
+title: "看大阅兵时我走神了…… | 狗熊有话说"
+datePublished: Sat Jul 29 2017 12:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2vfae960276t4nvdgl47glg
+slug: military-parade
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651901080726/3fI_7nsOn.jpg
+
+---
 
 ![2017-07-30_01](http://i.imgur.com/m14DSQE.jpg)
 
