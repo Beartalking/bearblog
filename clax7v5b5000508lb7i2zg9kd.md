@@ -1,4 +1,11 @@
-# 《雪崩》：40年前的塞伯朋克科幻，目前大都实现了
+---
+title: "《雪崩》：40年前的塞伯朋克科幻，目前大都实现了"
+datePublished: Sat Nov 26 2022 00:51:03 GMT+0000 (Coordinated Universal Time)
+cuid: clax7v5b5000508lb7i2zg9kd
+slug: snow-crash-brief
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/7PqRZK6rbaE/upload/v1669423824302/XD4qlnyy6.jpeg
+
+---
 
 
 ![40651883._SY475_.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1669423836646/ZhxfF1TOu.jpg align="left")
