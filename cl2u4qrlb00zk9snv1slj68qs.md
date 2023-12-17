@@ -1,4 +1,11 @@
-## 狗熊周记 Weekly Retro - 2019年第41周 / 狗熊有话说
+---
+title: "狗熊周记 Weekly Retro - 2019年第41周 / 狗熊有话说"
+datePublished: Sat Oct 12 2019 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2u4qrlb00zk9snv1slj68qs
+slug: weekly41-2019
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651822925037/B5Z2E3A6H.jpg
+
+---
 
 ![warren-wong-tHiGKAJxaA8-unsplash](https://i.imgur.com/fJfm94t.jpg)
 
