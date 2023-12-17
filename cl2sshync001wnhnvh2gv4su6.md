@@ -1,4 +1,11 @@
-## 《圣玛丽计划》(Project Hail Mary)
+---
+title: "《圣玛丽计划》(Project Hail Mary)"
+datePublished: Sat Feb 12 2022 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2sshync001wnhnvh2gv4su6
+slug: project-hail-mary
+tags: books
+
+---
 
 昨天赶在还书日即将截止几小时前读完了2021年最佳科幻小说《圣玛丽计划》（Project Hail Mary），太空科幻的确震撼，在科幻的层面上和三体一的感觉差不多，布局更有味道。而且很多技术细节非常硬，作者安迪本来是程序员出身，写《火星救援》的时候就已很多硬派的设定而著称，这一本书同样如此。很多技术细节，都看得出来是经过认真推敲的，也就是程序员所谓的极端情况。怪不得比尔盖茨力荐，毕竟他也是个极客。
 
