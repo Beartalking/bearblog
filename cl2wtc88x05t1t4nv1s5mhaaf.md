@@ -1,4 +1,12 @@
-## Case Study: The UX Design Evaluation of Kindle Paperwhite
+---
+title: "Case Study: The UX Design Evaluation of Kindle Paperwhite"
+datePublished: Mon Apr 22 2019 12:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2wtc88x05t1t4nv1s5mhaaf
+slug: case-study-the-ux-design-evaluation-of-kindle-paperwhite
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651985163176/pkXLbcgWv.jpg
+tags: design
+
+---
 
 ![](https://paper-attachments.dropbox.com/s_B66A31CEAA8D58C9FA68596ECEC162E4D4CED65AF8F007563D207D4495B07809_1555974472794_125897-gadgets-review-amazon-kindle-paperwhite-2013-review-image1-5Ax4D6ihmI.jpg)
 
