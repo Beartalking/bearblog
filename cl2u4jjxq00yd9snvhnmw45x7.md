@@ -1,4 +1,11 @@
-## 如何成为高手+黑客马拉松记录 Weekly第44-45周 / 狗熊有话说
+---
+title: "如何成为高手+黑客马拉松记录 Weekly第44-45周 / 狗熊有话说"
+datePublished: Sat Nov 23 2019 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2u4jjxq00yd9snvhnmw45x7
+slug: weekly44-45-2019
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651822588347/NQ9_Htbxl.jpg
+
+---
 
 ![09F83753-5F83-4DE5-B7F9-8EDE4D7D](https://i.imgur.com/Q1R7gD9.jpg)
 
