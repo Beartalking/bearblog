@@ -1,4 +1,11 @@
-## 预设政府职能部门是傻猪
+---
+title: "预设政府职能部门是傻猪"
+datePublished: Fri Apr 08 2022 12:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl36ra9vl03pcmqnvds7mbchc
+slug: government-is
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/ZoZJLgAIvGc/upload/v1652586354427/q6-5zWoIU.jpeg
+
+---
 
 刷微博看了很多上海居委会不作为或是无能领导，导致局面混乱的各种视频（血压升高）。
 
