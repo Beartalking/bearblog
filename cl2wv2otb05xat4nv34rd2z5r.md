@@ -1,4 +1,11 @@
-## 作为父母，如何才能挤出时间做点自己想做的事？
+---
+title: "作为父母，如何才能挤出时间做点自己想做的事？"
+datePublished: Tue Apr 30 2019 12:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2wv2otb05xat4nv34rd2z5r
+slug: how-to-make-time-as-a-parent
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651988082976/8are-12FY.jpg
+
+---
 
 ![hutomo-abrianto-576211-unsplash](https://i.imgur.com/xlxameV.jpg)
 
