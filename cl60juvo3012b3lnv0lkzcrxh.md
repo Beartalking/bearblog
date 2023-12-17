@@ -1,4 +1,11 @@
-## 3年前的冬天，我在清晨6点就出门…
+---
+title: "3年前的冬天，我在清晨6点就出门…"
+datePublished: Mon Jul 25 2022 09:31:33 GMT+0000 (Coordinated Universal Time)
+cuid: cl60juvo3012b3lnv0lkzcrxh
+slug: winter-toastmaster
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/fIrGQfxLlZM/upload/v1658741165300/cyIhfyitP.jpeg
+
+---
 
 三年前我觉得自己的英文表达需要训练，只是靠在工作中的练习，不是太够，于是我报了两个Toast Master的俱乐部，每周二早上7点到8点30，进行一个半小时的演讲活动。
 
