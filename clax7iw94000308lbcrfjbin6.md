@@ -1,4 +1,11 @@
-# 顶级的故事叙述者把人说哭并不难
+---
+title: "顶级的故事叙述者把人说哭并不难"
+datePublished: Wed Nov 16 2022 00:41:20 GMT+0000 (Coordinated Universal Time)
+cuid: clax7iw94000308lbcrfjbin6
+slug: best-storyteller
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/QhZuBipfY8o/upload/v1669423259722/5idBU4RIZ.jpeg
+
+---
 
 最新一期圆桌派，嘉宾冯远征讲了一个自己当年在德国学习表演的故事，直接让另外一位嘉宾（他的学生）哭的一塌糊涂。这不算是演员的感性 - 我觉得对于顶级的故事叙述者来说，把人说哭并不难，或者说触动人内心的细腻情感，是他们的能力。
 
