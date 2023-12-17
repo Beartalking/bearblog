@@ -1,4 +1,11 @@
-## 我很轻视在微信群里吵架的人
+---
+title: "我很轻视在微信群里吵架的人"
+datePublished: Wed Mar 02 2022 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2ss4hdk00by8dnv1wfh49x2
+slug: dont-argue-in-wechat
+tags: productivity
+
+---
 
 如果我看到我的某个微信联系人在微信朋友圈或是其他的讨论群里进行争吵，哪怕我没有把他拉黑，但这人就已经被我贴上了“不珍惜时间”的标签，从此这个人的分享、建议、意见和观点，在我这里所占的权重都会降低，因为我认为他既然不珍惜自己的时间，不懂得判断价值，那么多半也很难有什么有高价值的观点或意见。
 
