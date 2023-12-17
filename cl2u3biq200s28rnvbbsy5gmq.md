@@ -1,4 +1,11 @@
-## 另一个版本的我们在这周死去 Weekly第6周 / 狗熊有话说
+---
+title: "另一个版本的我们在这周死去 Weekly第6周 / 狗熊有话说"
+datePublished: Sat Feb 08 2020 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2u3biq200s28rnvbbsy5gmq
+slug: weekly6-2020
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651820526474/T_EMgtolh.jpg
+
+---
 
 ![51581046745_.pic_hd](https://i.imgur.com/3JwzJR6.jpg)
 
