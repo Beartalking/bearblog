@@ -1,4 +1,11 @@
-## 你和无限精彩的世界之间，就隔着一层说不利索的英语 / 狗熊有话说
+---
+title: "你和无限精彩的世界之间，就隔着一层说不利索的英语 / 狗熊有话说"
+datePublished: Mon Dec 11 2017 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2vefxzl0274u5nv4jc7fnoa
+slug: learn-english-2017
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651899680280/MviAkA-5s.jpg
+
+---
 
 ![greg-rakozy-53292](https://i.imgur.com/K6HfXsx.jpg)
 
