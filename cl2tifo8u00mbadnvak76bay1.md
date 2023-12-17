@@ -1,4 +1,11 @@
-## 他们硬核，我吃核 Weekly第8周 / 狗熊有话说
+---
+title: "他们硬核，我吃核 Weekly第8周 / 狗熊有话说"
+datePublished: Sun Feb 23 2020 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2tifo8u00mbadnvak76bay1
+slug: weekly8-2020
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651785461866/GopusZ8kg.jpg
+
+---
 
 ![IMG_4291](https://i.imgur.com/XMyF7bN.jpg)
 
