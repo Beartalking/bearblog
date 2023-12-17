@@ -1,4 +1,12 @@
-## 敏捷与gtd，是思维方式的不同
+---
+title: "敏捷与gtd，是思维方式的不同"
+datePublished: Mon Apr 11 2022 12:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl36rc9yg03phmqnv5sds7x5r
+slug: agile-and-gtd
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/zoCDWPuiRuA/upload/v1652586486960/-aWCXxbxq.jpeg
+tags: productivity, agile
+
+---
 
 4月到现在10天。目前保持了每周发布一个纯英文的技术类分享视频，一个中文的读书视频和对应播客。另外每天发一个英文的1分钟技术分享短视频。正常地工作、带娃、运动、刷电影，不熬夜，和以前没啥变化。
 
