@@ -1,4 +1,11 @@
-## 我那些跳槽的老板们
+---
+title: "我那些跳槽的老板们"
+datePublished: Tue Feb 08 2022 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2ssjzci002lnhnvhkwz7d9u
+slug: my-bosses-career-journey
+tags: career
+
+---
 
 在我Xero的老板跳槽之后，我之前在沃达丰的老板也跳槽了。两人选择的职业路线有些区别：一个去了Atlassian，世界知名的软件公司，相当于从大型软件公司跳到了超大型软件公司。另一个去了一家本土初创企业。
 
