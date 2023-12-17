@@ -1,4 +1,11 @@
-## 如何成为马斯克那样猛的人？他的三件武器是……
+---
+title: "如何成为马斯克那样猛的人？他的三件武器是……"
+datePublished: Wed Feb 07 2018 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2ve8noy023at4nv30mo4466
+slug: how-to-learn-as-elon-musk
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651899334745/2178VoICQ.jpg
+
+---
 
 ![7695e2e2ly1fo7gvgi8d7j20xc0ir75p](https://i.imgur.com/VStqgna.jpg)
 
