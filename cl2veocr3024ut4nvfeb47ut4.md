@@ -1,4 +1,12 @@
-## 美工马上就失业了，设计师不会
+---
+title: "美工马上就失业了，设计师不会"
+datePublished: Mon Nov 06 2017 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2veocr3024ut4nvfeb47ut4
+slug: designer-fight-ai
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651900075940/nbVur33RV.jpg
+tags: design
+
+---
 
 ![photo-1494587416117-f102a2ac0a8d](https://i.imgur.com/mCwzini.jpg)
 
