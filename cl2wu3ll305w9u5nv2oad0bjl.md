@@ -1,4 +1,12 @@
-## Design your perfect weekday
+---
+title: "Design your perfect weekday"
+datePublished: Mon Oct 07 2019 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2wu3ll305w9u5nv2oad0bjl
+slug: design-your-perfect-weekday
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651986456250/EzVoxIuOI.jpg
+tags: productivity
+
+---
 
 ![bethany-legg-75nbwHfDsnY-unsplash](https://i.imgur.com/CfrrI35.jpg)
 
