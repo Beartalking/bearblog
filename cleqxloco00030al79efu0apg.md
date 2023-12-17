@@ -1,5 +1,5 @@
 ---
-title: 在西方工作生活，要怎样才算是“融入了主流社会”？
+title: "在西方工作生活，要怎样才算是“融入了主流社会”？"
 datePublished: Thu Mar 02 2023 09:55:57 GMT+0000 (Coordinated Universal Time)
 cuid: cleqxloco00030al79efu0apg
 slug: mainstream
