@@ -1,4 +1,11 @@
-## 又是一年生日，对自己的一些欺许 Weekly第19周 / 狗熊有话说
+---
+title: "又是一年生日，对自己的一些欺许 Weekly第19周 / 狗熊有话说"
+datePublished: Sat May 09 2020 12:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2tht0sc00x331nvd2ou9s35
+slug: weekly19-2020
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651784400170/qHQfEdpPX.jpg
+
+---
 
 ![IMG_5769](https://i.imgur.com/K8ZEZiE.jpg)
 
