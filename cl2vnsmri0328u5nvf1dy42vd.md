@@ -1,4 +1,12 @@
-## 手机语音写作实验
+---
+title: "手机语音写作实验"
+datePublished: Thu Apr 29 2021 12:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2vnsmri0328u5nvf1dy42vd
+slug: audio-writing
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/zn2aUVfbUrk/upload/v1652129681635/vSG6G-ut6.jpeg
+tags: writing
+
+---
 
 我现在在一家不远处的一个小学操场，时间是晚上9:15，这里的操场空无一人，我在一边散步，一边用手机语音进行写字的记录。你现在读到的内容，就是我在手机上写的内容。
 
