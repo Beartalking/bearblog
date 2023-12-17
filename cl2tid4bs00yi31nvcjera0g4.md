@@ -1,4 +1,12 @@
-## 这样明显影响工作效果的问题，我tm以前怎么没看到？！
+---
+title: "这样明显影响工作效果的问题，我tm以前怎么没看到？！"
+datePublished: Thu Feb 27 2020 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2tid4bs00yi31nvcjera0g4
+slug: time-tips-2020
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651785328843/e_-LxRVxV.jpg
+tags: agile
+
+---
 
 这周最让人开心的工作上的成果，其中之一是发现了一个导致我工作完成度不达预期的主要原因，详细说一下。
 
