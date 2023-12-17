@@ -1,4 +1,11 @@
-## 你想摆脱“丧偶式育儿”的状态么？先让老公从给宝宝洗澡开始吧！
+---
+title: "你想摆脱“丧偶式育儿”的状态么？先让老公从给宝宝洗澡开始吧！"
+datePublished: Thu Feb 01 2018 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2x0d4fu06f5t4nv3a11h4ih
+slug: dad-bath
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651996975245/AslI8SNI5.jpg
+
+---
 
 ![funny-parenting-reality-father-of-daughter-simon-hooper-5830a1ba00863__880](https://i.imgur.com/1aQBoM7.jpg)
 
