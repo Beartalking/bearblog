@@ -1,4 +1,11 @@
-## 再见了，狗熊月读！ （停播通知）
+---
+title: "再见了，狗熊月读！ （停播通知）"
+datePublished: Thu May 24 2018 12:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2vcz7gi020yt4nvaraoaot9
+slug: farewell-readwithbear
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651897215752/JfniBr1P9.jpg
+
+---
 
 ![luca-upper-97759-unsplash](https://i.imgur.com/0YkrkBX.jpg)
 
