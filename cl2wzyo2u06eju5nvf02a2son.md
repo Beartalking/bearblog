@@ -1,4 +1,11 @@
-## 为什么我们的童书和故事里没有鳄鱼和蟒蛇？
+---
+title: "为什么我们的童书和故事里没有鳄鱼和蟒蛇？"
+datePublished: Sun Jul 08 2018 12:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2wzyo2u06eju5nvf02a2son
+slug: croc-in-children-book
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651996286989/VCfWf93pC.jpg
+
+---
 
 ![a_0271](https://i.imgur.com/YQB8EY9.jpg)
 
