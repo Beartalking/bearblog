@@ -1,4 +1,12 @@
-## 《神秘海域4》：在游戏中的ux设计一例
+---
+title: "《神秘海域4》：在游戏中的ux设计一例"
+datePublished: Mon Mar 28 2022 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2sqtqed005z8dnv0x94bnc7
+slug: uncharted-ux
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651739086902/luoSjd_cL.jpg
+tags: games
+
+---
 
 看完了《神秘海域4》的游戏通关视频，一共20集。现在的游戏视频制作太牛了，30分钟一集，顺畅通关，电影的观感。
 
