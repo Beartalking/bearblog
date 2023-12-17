@@ -1,4 +1,11 @@
-## 用生育基金来鼓励生育，还是学习灭霸随机消灭一半的人口？
+---
+title: "用生育基金来鼓励生育，还是学习灭霸随机消灭一半的人口？"
+datePublished: Sat Aug 25 2018 12:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2wzq1lm06dbu5nvbth2417u
+slug: child-policy
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651995893245/bl0KitWaj.jpg
+
+---
 
 ![cover](https://i.imgur.com/ADuAkN8.jpg)
 
