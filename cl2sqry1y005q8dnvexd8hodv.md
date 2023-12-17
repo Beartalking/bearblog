@@ -1,4 +1,11 @@
-## 《无依之地》
+---
+title: "《无依之地》"
+datePublished: Thu Mar 31 2022 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2sqry1y005q8dnvexd8hodv
+slug: nomadland
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651739006095/gluQ3Atrk.jpg
+
+---
 
 看了《无依之地》，好看啊。
 
