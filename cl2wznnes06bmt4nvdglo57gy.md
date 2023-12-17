@@ -1,4 +1,11 @@
-## 回国休假为了遛娃，我办了几张卡？
+---
+title: "回国休假为了遛娃，我办了几张卡？"
+datePublished: Sat Sep 15 2018 12:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2wznnes06bmt4nvdglo57gy
+slug: cards-for-playing-with-kid
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651995776748/diDN-N6xE.jpg
+
+---
 
 ![pexels-photo-870902](https://i.imgur.com/R2KWxXP.jpg)
 
