@@ -1,4 +1,11 @@
-# 圣诞家庭露营的收获：红皮肤、大餐、冲浪、独处的能力、亲人的相处与教育模式
+---
+title: "圣诞家庭露营的收获：红皮肤、大餐、冲浪、独处的能力、亲人的相处与教育模式"
+datePublished: Tue Dec 27 2022 08:54:26 GMT+0000 (Coordinated Universal Time)
+cuid: clc5zs6dj000008mj5a447fdn
+slug: 2022-xmas-camping
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1672131212575/30c0cb98-d6ac-42fe-aacd-74b40098946b.jpeg
+
+---
 
 2022年的圣诞节，我和家人一起利用假期去露营了几天。今天回到了奥克兰，离开了清晨拉开帐篷就是大海的美景，重新回到了自己熟悉的屋内生活。回想起这几天的经历，我有一些感受和收获。
 
