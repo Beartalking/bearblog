@@ -1,4 +1,12 @@
-## Bear Newsletter #1 Start small, and start now!
+---
+title: "Bear Newsletter #1 Start small, and start now!"
+datePublished: Fri Feb 25 2022 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2ss8mxg00cd8dnvfw3qh79n
+slug: newsletter1-start-small-and-start-now
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651741448264/vFryOMs9U.jpg
+tags: productivity, career
+
+---
 
 Hey friends,
 
