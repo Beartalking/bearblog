@@ -1,4 +1,12 @@
-## Let's do the UX in a Lean and Agile way: Lean UX by Jeff Gothelf and Josh Seiden
+---
+title: "Let's do the UX in a Lean and Agile way: Lean UX by Jeff Gothelf and Josh Seiden"
+datePublished: Thu May 09 2019 12:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2wtep5w05tat4nv4ktnf2jr
+slug: lets-do-the-ux-in-a-lean-and-agile-way-lean-ux-by-jeff-gothelf-and-josh-seiden
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651985283942/ZY4W8cE-Z.jpg
+tags: design
+
+---
 
 ![mario-gogh-1140530-unsplash](https://i.imgur.com/TTMpSDq.jpg)
 
