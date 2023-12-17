@@ -1,4 +1,12 @@
-## Oonie Chase的分享
+---
+title: "Oonie Chase的分享"
+datePublished: Tue Mar 08 2022 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2srxw0800as9envg7o1fwwi
+slug: oonie-chase
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651740953236/dZ8XCI9kC.jpg
+tags: design
+
+---
 
 今天老板（Xero的设计执行官）动用了她个人关系请来了美国设计师Oonie Chase，来给全公司的设计师做分享。Oonie是世界顶尖级的设计公司Ideo的合伙人，之前在青蛙设计做总监。都是跟世界一流的企业合作 🙇
 
