@@ -1,4 +1,12 @@
-## 反对直线的百水先生 Hundertwasser
+---
+title: "反对直线的百水先生 Hundertwasser"
+datePublished: Sun Jun 05 2022 07:56:22 GMT+0000 (Coordinated Universal Time)
+cuid: cl59b3htt00gkyznv03ov8rit
+slug: hundertwasser
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1657094154384/K_cn2DXTl.JPG
+tags: art
+
+---
 
 ![bt420](https://i.imgur.com/kbV6Vep.jpg)
 
