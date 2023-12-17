@@ -1,4 +1,13 @@
-# 如何高效摸鱼
+---
+title: "如何高效摸鱼"
+seoTitle: "quiet quiting, 摸鱼, work smart, remote work"
+datePublished: Thu Sep 15 2022 10:20:23 GMT+0000 (Coordinated Universal Time)
+cuid: cl82whzcj00zxh8nv81o6d0dc
+slug: half-work
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/rvQmTjflcsE/upload/v1663237133218/Vk1GxFAVh.jpeg
+tags: productivity, remote-work
+
+---
 
 > 因为看到了一篇关于“摸鱼”这个话题的玩笑贴，我就忽然产生了记录一下自己摸鱼心得的想法。于是在这个 [Twitter贴子](https://twitter.com/bearbig/status/1570171341776785408) 里记录了一下。拼拼凑凑就成了一篇短文，先发出初稿。
 
