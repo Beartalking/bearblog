@@ -1,4 +1,12 @@
-## What is the user interview, and why do we need it? - Book review for Interviewing Users
+---
+title: "What is the user interview, and why do we need it? - Book review for Interviewing Users"
+datePublished: Wed Jun 05 2019 12:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2wthezt05tit4nvegio1w2d
+slug: what-is-the-user-interview-and-why-do-we-need-it-book-review-for-interviewing-users
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651985409302/7U-QhfMHU.jpg
+tags: books, design
+
+---
 
 ![felipe-furtado-678938-unsplash](https://i.imgur.com/Mu63BCV.jpg)
 
