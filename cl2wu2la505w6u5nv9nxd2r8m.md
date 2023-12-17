@@ -1,4 +1,12 @@
-## The Good, the Bad and the Ugly of Meetings
+---
+title: "The Good, the Bad and the Ugly of Meetings"
+datePublished: Sat Jul 27 2019 12:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2wu2la505w6u5nv9nxd2r8m
+slug: the-good-the-bad-and-the-ugly-of-meetings
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651986401519/bFFqRfPue.jpg
+tags: productivity
+
+---
 
 ![WechatIMG1930](https://i.imgur.com/RLcTmZr.jpg)
 
