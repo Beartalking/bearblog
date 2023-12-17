@@ -1,4 +1,11 @@
-## 41岁生日回顾
+---
+title: "41岁生日回顾"
+datePublished: Sat Apr 23 2022 12:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl36rrd5702gamgnv9eaka8nh
+slug: 41-birthday
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/abkEAOjnY0s/upload/v1652587085155/6djs1fg_x.jpeg
+
+---
 
 今天是自己41岁生日，平时已经经常总结自己的收获和成长，具体那些完成的和进行中的flag就不多说了（招人恨哈哈）。今天想分享一下自己40岁后学到的一些原则，作为自我提醒，也希望能对你有些帮助。
 
