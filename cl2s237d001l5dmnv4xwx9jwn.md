@@ -1,4 +1,12 @@
-## 2022年第一次Sketchnote!
+---
+title: "2022年第一次Sketchnote!"
+datePublished: Tue Jan 25 2022 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2s237d001l5dmnv4xwx9jwn
+slug: 2022sketchnote
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651697547541/sTIeTmseO.jpg
+tags: design, art
+
+---
 
 昨天早上七点参加了一个在线的视觉笔记workshop（美区晚上），我画了一个新年目标：今年内搞出腹肌！
 
