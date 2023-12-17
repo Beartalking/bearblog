@@ -1,4 +1,11 @@
-## 油腻中年，都已经是块油渣了还怎么去油腻？
+---
+title: "油腻中年，都已经是块油渣了还怎么去油腻？"
+datePublished: Sat Oct 28 2017 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2veyzm7025yt4nvdal13pa1
+slug: mid-add-crisis
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651900561261/7gUh6AEmt.jpg
+
+---
 
 ![photo-1495482479037-588f9b3712](https://i.imgur.com/EKOYilX.jpg)
 
