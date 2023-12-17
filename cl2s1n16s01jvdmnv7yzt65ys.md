@@ -1,4 +1,10 @@
-## Tyler的新冠
+---
+title: "Tyler的新冠"
+datePublished: Sun Jan 09 2022 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2s1n16s01jvdmnv7yzt65ys
+slug: tyler-covid
+
+---
 
 我在纽约的学生上周新冠痊愈了。他的经历应该是普通美国人与新冠接触的标准状态：
 
