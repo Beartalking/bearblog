@@ -1,4 +1,12 @@
-# Hire an immigrant, and the outcome is often better than you expected
+---
+title: "Hire an immigrant, and the outcome is often better than you expected"
+datePublished: Tue Jan 31 2023 21:05:49 GMT+0000 (Coordinated Universal Time)
+cuid: cldkqbkmz000109i80w390ceu
+slug: hire-an-immigrant
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1675199026975/abd3fb66-6622-431e-b928-2ca1be706c5e.jpeg
+tags: technology, laidoff
+
+---
 
 Seeing many people get laid off from tech companies brought back the memory of my first laid-off experience 😑
 
