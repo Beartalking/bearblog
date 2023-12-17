@@ -1,4 +1,11 @@
-## 2019年自学与看片总结 Weekly第51周 / 狗熊有话说
+---
+title: "2019年自学与看片总结 Weekly第51周 / 狗熊有话说"
+datePublished: Sun Dec 29 2019 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2u49w3v00x89snvax3se8xq
+slug: weekly51-2019
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651822129383/AbVF4OvH9.jpg
+
+---
 
 ![IMG_446](https://i.imgur.com/EPVVYMu.jpg)
 
