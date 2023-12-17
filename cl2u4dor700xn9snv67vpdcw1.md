@@ -1,4 +1,12 @@
-## 2019年读完的9000页英文书 / 狗熊有话说
+---
+title: "2019年读完的9000页英文书 / 狗熊有话说"
+datePublished: Sat Dec 21 2019 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2u4dor700xn9snv67vpdcw1
+slug: 2019-books-i-read
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651822295578/RiKznrEVh.jpg
+tags: books
+
+---
 
 2019年，大狗熊阅读了35本英文书，大约有9000页左右的篇幅。这期节目，我们来聊聊这35本书给我带来的收获，选出这一年的10佳书目，总结一下阅读的目标与收获，更关键的：和你分享如何培养高效阅读英文书的习惯，如何免费阅读全球顶尖水平的英文书，等等。
 
