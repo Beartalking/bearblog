@@ -1,4 +1,11 @@
-## 今天我40岁生日！
+---
+title: "今天我40岁生日！"
+datePublished: Fri Apr 23 2021 12:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2vnrm6t031it4nv01hfcp1t
+slug: 40th-birthday
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/kmLUcvhqhSo/upload/v1652129707579/5ckVxoQ4b.jpeg
+
+---
 
 
 自我回顾：
