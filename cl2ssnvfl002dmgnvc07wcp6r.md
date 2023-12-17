@@ -1,4 +1,12 @@
-## Review of Springboard Jan report
+---
+title: "Review of Springboard Jan report"
+datePublished: Fri Feb 04 2022 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2ssnvfl002dmgnvc07wcp6r
+slug: review-of-springboard-jan-report
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651742181994/MgBpAsHyg.jpg
+tags: mentorship
+
+---
 
 ![](https://i.imgur.com/CvOLB8t.jpg)
 
