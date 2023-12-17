@@ -1,4 +1,10 @@
-## 2021年看过的电影（附10部推荐）
+---
+title: "2021年看过的电影（附10部推荐）"
+datePublished: Sat Jan 15 2022 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2s1q3uy01k8clnvgo7w46lw
+slug: 202110
+
+---
 
 ![43ffe14c3fd00b1c79340b29a971bec3](https://i.imgur.com/J4xzCdC.png)
 
