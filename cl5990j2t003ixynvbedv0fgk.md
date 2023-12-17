@@ -1,4 +1,11 @@
-## 书评：《午夜降临前抵达》
+---
+title: "书评：《午夜降临前抵达》"
+datePublished: Sun May 15 2022 06:57:42 GMT+0000 (Coordinated Universal Time)
+cuid: cl5990j2t003ixynvbedv0fgk
+slug: a-central-european-odyssey
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1657090574961/HxQK2FEMI.jpg
+
+---
 
 
 
