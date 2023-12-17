@@ -1,4 +1,11 @@
-## 【Vlog】GO熊219：一本定制书的诞生旅程 | 狗熊有话说
+---
+title: "【Vlog】GO熊219：一本定制书的诞生旅程 | 狗熊有话说"
+datePublished: Thu Dec 07 2017 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2veia1l027gu5nv3du6guq3
+slug: vlog219-how-to-make-a-children-book
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651899766212/YaJcn_QqQ.jpg
+
+---
 
 ![gb219](https://i.imgur.com/hOZKNYO.jpg)
 
