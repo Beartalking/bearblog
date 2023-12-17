@@ -1,4 +1,11 @@
-## 逆天改命的关键：世界是由信息构成的 Weekly第10周 / 狗熊有话说
+---
+title: "逆天改命的关键：世界是由信息构成的 Weekly第10周 / 狗熊有话说"
+datePublished: Sat Mar 07 2020 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2ti6t2p00lbadnvb42hay67
+slug: weekly10-2020
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651785041254/6abrf020I.jpg
+
+---
 
 ![IMG_4513](https://i.imgur.com/bOHKXBv.jpg)
 
