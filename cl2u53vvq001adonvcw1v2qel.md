@@ -1,4 +1,11 @@
-## 狗熊周记 Weekly Retro - 2019年第36周 / 狗熊有话说
+---
+title: "狗熊周记 Weekly Retro - 2019年第36周 / 狗熊有话说"
+datePublished: Sat Sep 07 2019 12:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2u53vvq001adonvcw1v2qel
+slug: weekly36-2019
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651823539085/jqUmlAOAa.jpg
+
+---
 
 ![linus-nylund-SfdwxMA5VIM-unsplash](https://i.imgur.com/lg27vQj.jpg)
 
