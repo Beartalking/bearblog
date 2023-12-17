@@ -1,4 +1,11 @@
-## 《破解压力》：可能是现代人最需要的技巧
+---
+title: "《破解压力》：可能是现代人最需要的技巧"
+datePublished: Tue Apr 06 2021 12:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2vnovht030vt4nv055lb1z6
+slug: stress-hacking
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651915210258/f3twXm1cM.jpeg
+
+---
 
 ![](media/16519149913559/16519149966175.jpg)
 
