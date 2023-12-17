@@ -1,4 +1,11 @@
-# John Wick Meets UX: How to Fight the 'Me Against the World' Mentality
+---
+title: "John Wick Meets UX: How to Fight the 'Me Against the World' Mentality"
+datePublished: Fri Dec 16 2022 03:08:16 GMT+0000 (Coordinated Universal Time)
+cuid: clbpxkn6g000108mcf3ym0do3
+slug: john-wick-vs-designer
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1671159932580/0WbZz0Dc2.jpg
+
+---
 
 John Wick is a movie franchise that has been around for a few years, and the fourth episode is set to launch next year. This got me thinking about the early days of my career as a junior designer when I used to feel like I was up against the whole world. It often felt like I struggled to prove to everyone that I was right and that my ideas were the best.
 
