@@ -1,4 +1,11 @@
-## I want to be this kind of senior
+---
+title: "I want to be this kind of senior"
+datePublished: Wed Jun 15 2022 08:01:53 GMT+0000 (Coordinated Universal Time)
+cuid: cl59bas4800fyxynv7pcbghcu
+slug: i-want-to-be-this-kind-of-senior
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/_UeY8aTI6d0/upload/v1657094498161/3s-n4Ckne.jpeg
+
+---
 
 I worked with a few talented designers and leaders before. A legacy they left for me is the question, "what would he/she do in this situation?"
 
