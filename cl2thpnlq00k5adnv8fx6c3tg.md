@@ -1,4 +1,11 @@
-## 世界进入乱纪元，和其他5月的事 Weekly第21-22周 / 狗熊有话说
+---
+title: "世界进入乱纪元，和其他5月的事 Weekly第21-22周 / 狗熊有话说"
+datePublished: Tue Jun 02 2020 12:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2thpnlq00k5adnv8fx6c3tg
+slug: weekly21-22-2020
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651784234961/-3s0kuxIK.jpg
+
+---
 
 ![FBB1FD17-7739-4B54-AE19-31730D637F9C](https://i.imgur.com/yFRbEYD.jpg)
 
