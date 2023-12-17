@@ -1,4 +1,12 @@
-## Apple Watch 7使用初体验：JustPressRecord, Audio Run
+---
+title: "Apple Watch 7使用初体验：JustPressRecord, Audio Run"
+datePublished: Wed Jan 26 2022 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2s1yqbr01l7clnv3fl09qsk
+slug: apple-watch-7justpressrecord-audio-run
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651697300942/2wz_oB344.jpg
+tags: apple, product
+
+---
 
 Apple Watch7到了，用了两天，同古老的一代相比，相应速度啥的不用说，屏幕显示面积和亮度也不用说，最大的体验提升大概是常亮屏显的效果（之前的三代好像就有了）。避免了在运动中某个奇葩姿势时想要看一下时间，必须要翻手腕的尴尬。
 
