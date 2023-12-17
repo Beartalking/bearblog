@@ -1,4 +1,11 @@
-## 带孩子去逛动物博物馆能学到什么？
+---
+title: "带孩子去逛动物博物馆能学到什么？"
+datePublished: Mon Aug 13 2018 12:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2wzrh9u06dhu5nva73hh4oe
+slug: kunming-muserm-for-kid
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651995956207/EJ2gl4N77.jpg
+
+---
 
 ![IMG_0069](https://i.imgur.com/UtYyP47.jpg)
 
