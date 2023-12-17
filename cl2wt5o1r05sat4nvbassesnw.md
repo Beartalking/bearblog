@@ -1,4 +1,12 @@
-## Case study: designing a thrilling app with proper UX
+---
+title: "Case study: designing a thrilling app with proper UX"
+datePublished: Fri Dec 07 2018 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2wt5o1r05sat4nvbassesnw
+slug: case-study-ghost-world-app
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651984849555/r2xtQ2pAY.jpg
+tags: design
+
+---
 
 ![ghost-world-022](https://i.imgur.com/lGjP4gt.jpg)
 
