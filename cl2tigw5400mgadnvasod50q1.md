@@ -1,4 +1,10 @@
-## 去年此时，我差点去领失业救济 / 碎念
+---
+title: "去年此时，我差点去领失业救济 / 碎念"
+datePublished: Sat Feb 22 2020 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2tigw5400mgadnvasod50q1
+slug: reflection-subsidy-2020
+
+---
 
 这一两周前后帮过几个朋友看简历，想起了我当时无业转行找工作的状态。
 
