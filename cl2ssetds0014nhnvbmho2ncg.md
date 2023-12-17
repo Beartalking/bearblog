@@ -1,4 +1,10 @@
-## 自我剖析：我也被数字裹挟了
+---
+title: "自我剖析：我也被数字裹挟了"
+datePublished: Thu Feb 17 2022 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2ssetds0014nhnvbmho2ncg
+slug: number-kidnap-me
+
+---
 
 我曾经觉得自己很超然，不会被一些数字裹挟。比如播客播放量，粉丝数量，文章浏览量等等。都不怎么在乎。
 
