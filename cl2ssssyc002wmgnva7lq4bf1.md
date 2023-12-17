@@ -1,4 +1,11 @@
-## 2022年1月读书总结
+---
+title: "2022年1月读书总结"
+datePublished: Mon Jan 31 2022 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2ssssyc002wmgnva7lq4bf1
+slug: book-review-2022-jan
+tags: books
+
+---
 
 刚刚过完的一月读完了六本书，因为是假期的缘故，可以读一些虚构类的小说。读了三本，分别是《追风筝的人》、《鲁滨逊漂流记》，还有Good Omens。前两本都是阅读文字版，Good Omens是通过收听广播剧的方式阅读，非常惊艳！因为读了这本书，开始寻找其他的广播剧，并且找到了很多有意思的类似书目，以后会详细分享。
 
