@@ -1,4 +1,12 @@
-## 两年前的焦虑记录 Weekly第3周 / 狗熊有话说
+---
+title: "两年前的焦虑记录 Weekly第3周 / 狗熊有话说"
+datePublished: Sat Jan 18 2020 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2u3scw300uj8rnvglxx2x0r
+slug: weekly3-2020
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651821316347/vi69RXyXi.jpg
+tags: career
+
+---
 
 ![IMG_3626](https://i.imgur.com/grVt2Sc.jpg)
 
