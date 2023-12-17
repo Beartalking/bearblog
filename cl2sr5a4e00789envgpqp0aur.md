@@ -1,4 +1,12 @@
-## 把求生模式改造为繁荣模式
+---
+title: "把求生模式改造为繁荣模式"
+datePublished: Wed Mar 16 2022 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2sr5a4e00789envgpqp0aur
+slug: survive-to-thrive
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651739597566/5qy5WjLUS.jpg
+tags: career
+
+---
 
 前年新西兰因为疫情开始封锁并居家办公时，我们家跌跌撞撞也开始带娃居家办公，每天生不如死。第一轮封锁结束后，和很多人一样，我胖了一圈好几公斤，睡眠不足，工作上基本也是救火状态，自己的项目基本没弄，精神状态也是求生模式。
 
