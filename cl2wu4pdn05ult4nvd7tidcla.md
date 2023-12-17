@@ -1,4 +1,12 @@
-## How to make a doable reading list for the new year?
+---
+title: "How to make a doable reading list for the new year?"
+datePublished: Tue Jan 07 2020 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2wu4pdn05ult4nvd7tidcla
+slug: how-to-make-a-doable-reading-list-for-the-new-year
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651986499833/FjMFl1P7e.jpg
+tags: books
+
+---
 
 ![chuttersnap-q3o7xqYQtes-unsplash](https://i.imgur.com/V2f2nrh.jpg)
 
