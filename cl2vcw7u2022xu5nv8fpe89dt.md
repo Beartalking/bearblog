@@ -1,4 +1,11 @@
-## 微信公众号有可能出现的真正重大改变？
+---
+title: "微信公众号有可能出现的真正重大改变？"
+datePublished: Sun Jun 24 2018 12:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2vcw7u2022xu5nv8fpe89dt
+slug: predict-wechat-update-2018
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651897079763/YDFaIxPvw.jpg
+
+---
 
 ![tyler-lastovich-453203-unsplash](https://i.imgur.com/wo9fv74.jpg)
 
