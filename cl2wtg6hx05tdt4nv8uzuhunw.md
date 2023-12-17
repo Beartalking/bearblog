@@ -1,4 +1,12 @@
-## Case Study of Lonely Coffee - Let's Reach Out to Meet Interesting People🤓
+---
+title: "Case Study of Lonely Coffee - Let's Reach Out to Meet Interesting People🤓"
+datePublished: Tue May 21 2019 12:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2wtg6hx05tdt4nv8uzuhunw
+slug: case-study-of-lonely-coffee-lets-reach-out-to-meet-interesting-people
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651985356883/ky-DqAgnV.jpg
+tags: design
+
+---
 
 ![Artboard Copy](https://i.imgur.com/HLgosF0.jpg)
 
