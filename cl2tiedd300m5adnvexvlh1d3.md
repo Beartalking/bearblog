@@ -1,4 +1,11 @@
-## 近期关于育儿的一个小故事分享 / 碎念
+---
+title: "近期关于育儿的一个小故事分享 / 碎念"
+datePublished: Wed Feb 26 2020 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2tiedd300m5adnvexvlh1d3
+slug: parenting-tips-02-2020
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651785398840/eRQ5TUy6k.jpg
+
+---
 
 ![](https://i.imgur.com/kHeO8Nz.jpg)
 
