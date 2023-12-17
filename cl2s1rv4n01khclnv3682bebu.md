@@ -1,4 +1,12 @@
-## Just Enough Research by Erika Hall - Book review
+---
+title: "Just Enough Research by Erika Hall - Book review"
+datePublished: Wed Jan 19 2022 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2s1rv4n01khclnv3682bebu
+slug: just-enough-research-by-erika-hall-book-review
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651697005609/JtTrkKtDi.jpg
+tags: books, design, research
+
+---
 
 ![Book note-2021 - Just Enough Research](https://i.imgur.com/Wq6yyLt.jpg)
 
