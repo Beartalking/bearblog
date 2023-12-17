@@ -1,4 +1,11 @@
-## 印度的孩子比中国孩子强？因为他们的父母做到了这件事……
+---
+title: "印度的孩子比中国孩子强？因为他们的父母做到了这件事……"
+datePublished: Mon Mar 25 2019 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2wv8fn605yat4nvf3uw25qz
+slug: learn-from-indian-parents
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651988344979/wjkwszPgR.jpg
+
+---
 
 ![maxresdefault](https://i.imgur.com/Mahatpn.jpg)
 
