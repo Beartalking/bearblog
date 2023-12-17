@@ -1,4 +1,12 @@
-## Great at work by Morten T. Hansen: Bear's Book review
+---
+title: "Great at work by Morten T. Hansen: Bear's Book review"
+datePublished: Tue Apr 21 2020 12:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2thzz3w00kuadnv798e6j2q
+slug: great-at-work
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651784696879/wzS637RYr.jpg
+tags: books
+
+---
 
 ![great at work-1](https://i.imgur.com/8NwrfGc.jpg)
 
