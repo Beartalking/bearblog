@@ -1,4 +1,11 @@
-## You can focus on things you like
+---
+title: "You can focus on things you like"
+datePublished: Sat Feb 05 2022 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2ssmnwx002ynhnv4yli14gl
+slug: you-can-focus-on-things-you-like
+tags: career
+
+---
 
 Now I'm 40, and I finally learned this: you don't need to follow the trend. You don't need to follow other people’s attention. It's okay to just focus on your domain and care about the things you care about. If people talk about sport, football, bitcoin, rugby, or other things you don't care about, just don't. And that's okay.
 
