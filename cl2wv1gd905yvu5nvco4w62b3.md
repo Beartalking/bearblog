@@ -1,4 +1,11 @@
-## 成为全职奶爸108天后，我发现……
+---
+title: "成为全职奶爸108天后，我发现……"
+datePublished: Thu May 30 2019 12:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2wv1gd905yvu5nvco4w62b3
+slug: full-time-dad
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651988014051/nLidvdtTJ.jpg
+
+---
 
 ![Photo on 31-05-19 at 2.24 PM #3](https://i.imgur.com/XLgtVSm.jpg)
 
