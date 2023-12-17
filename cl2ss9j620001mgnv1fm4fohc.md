@@ -1,4 +1,11 @@
-## 如何能增加做决定的信心？
+---
+title: "如何能增加做决定的信心？"
+datePublished: Fri Feb 25 2022 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2ss9j620001mgnv1fm4fohc
+slug: how-to-make-confident-career-decisions
+tags: design, career
+
+---
 
 最近前后有四个朋友向我咨询职业方面的建议，有美国和新西兰的朋友也有国内的。具体的方向和领域不太一样，但大家似乎都有一个共同的相同问题：我如何能够更有信心地面对自己做出的职业决定。
 
