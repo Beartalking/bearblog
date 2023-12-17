@@ -1,4 +1,11 @@
-## 中西方职场离职与海洋文明的关系
+---
+title: "中西方职场离职与海洋文明的关系"
+datePublished: Tue Feb 01 2022 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2ssr2gi003vnhnvgxcr85c4
+slug: career-diff-east-west
+tags: career
+
+---
 
 西方的公司如果有人离职，跳槽去了新公司，只要人品不是太差，大家通常都会说好话，感谢他为公司付出的贡献，组织欢送。东方的公司只要跳槽离开，几乎都有点像敌人的感觉，至少不会那么高姿态的去感谢或夸奖。
 
