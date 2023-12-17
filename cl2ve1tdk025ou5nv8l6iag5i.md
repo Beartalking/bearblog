@@ -1,4 +1,11 @@
-## 你想狗熊做什么主题的节目？| 狗熊有话说
+---
+title: "你想狗熊做什么主题的节目？| 狗熊有话说"
+datePublished: Wed Apr 25 2018 12:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2ve1tdk025ou5nv8l6iag5i
+slug: type-of-show-you-want
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651899027669/EipxE554K.jpg
+
+---
 
 ![paul-skorupskas-59950-unsplash](https://i.imgur.com/iIcaoc8.jpg)
 
