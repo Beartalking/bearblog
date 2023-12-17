@@ -1,4 +1,11 @@
-## 新西兰的社会巨变即将开始 Weekly第12周 / 狗熊有话说
+---
+title: "新西兰的社会巨变即将开始 Weekly第12周 / 狗熊有话说"
+datePublished: Sat Mar 21 2020 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2ti3t2a00l3adnve0nhhih2
+slug: weekly12-2020
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651784905027/iRWCyykHI.jpg
+
+---
 
 ![IMG_4697](https://i.imgur.com/yRzZZ42.jpg)
 
