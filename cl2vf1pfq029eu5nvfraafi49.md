@@ -1,4 +1,11 @@
-## 困死了 WePhone 开发者的 Blub Paradox | 狗熊有话说
+---
+title: "困死了 WePhone 开发者的 Blub Paradox | 狗熊有话说"
+datePublished: Sat Sep 09 2017 12:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2vf1pfq029eu5nvfraafi49
+slug: wephone-blub-paradox
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651900693895/GLhZD-lS5.jpg
+
+---
 
 ![whereismymind](https://i.imgur.com/f5taBvs.jpg)
 
