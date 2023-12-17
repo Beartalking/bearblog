@@ -1,4 +1,11 @@
-## 电影未落幕前，仍然会有悬念 Weekly第44周 / 狗熊有话说
+---
+title: "电影未落幕前，仍然会有悬念 Weekly第44周 / 狗熊有话说"
+datePublished: Sat Nov 02 2019 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2u4m5lw00yx9snv4146em4y
+slug: weekly44-2019
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651822713895/Ikoxy7HBF.jpg
+
+---
 
 ![weekly44](https://i.imgur.com/akLFULI.jpg)
 
