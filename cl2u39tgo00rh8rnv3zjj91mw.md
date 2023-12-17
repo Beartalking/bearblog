@@ -1,4 +1,11 @@
-## 自我的限制往往是幻象 Weekly第7周 / 狗熊有话说
+---
+title: "自我的限制往往是幻象 Weekly第7周 / 狗熊有话说"
+datePublished: Sat Feb 15 2020 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2u39tgo00rh8rnv3zjj91mw
+slug: weekly7-2020
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651820440769/anrHn2rd9.jpg
+
+---
 
 ![WechatIMG8](https://i.imgur.com/9RuASEJ.jpg)
 
