@@ -1,4 +1,11 @@
-## 我不想用网络热词污染自己的中文表达
+---
+title: "我不想用网络热词污染自己的中文表达"
+datePublished: Tue Apr 19 2022 12:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl36rlqph03qimqnv7ylpatyd
+slug: buzz-words-not-good
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/5u6bz2tYhX8/upload/v1652586920184/Mx0nGQkCw.jpeg
+
+---
 
 很早的时候我就开始有意避免使用网络热词，像是什么“蓝廋香菇”、“么么哒”，一方面是我知道这种词出现和消失一样快。等到我这种中年大叔开始听到并使用，那基本就已经是烂大街且离out不远了。另一方面，是我内心深处觉得这种热词很low。
 
