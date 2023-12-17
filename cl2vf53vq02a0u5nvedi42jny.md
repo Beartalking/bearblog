@@ -1,4 +1,12 @@
-## 发现熟悉事物中的陌生感：《设计中的设计》| 狗熊月读
+---
+title: "发现熟悉事物中的陌生感：《设计中的设计》| 狗熊月读"
+datePublished: Sun Sep 03 2017 12:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2vf53vq02a0u5nvedi42jny
+slug: design-the-design
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651900855513/FM1wW_2FN.jpg
+tags: design
+
+---
 
 ![rwbcover44_960](https://i.imgur.com/qpoDd1M.jpg)
 
