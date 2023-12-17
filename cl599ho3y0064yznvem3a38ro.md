@@ -1,4 +1,11 @@
-## 劣质教材中的图文信息和想像的比重
+---
+title: "劣质教材中的图文信息和想像的比重"
+datePublished: Sat May 28 2022 07:11:22 GMT+0000 (Coordinated Universal Time)
+cuid: cl599ho3y0064yznvem3a38ro
+slug: illustration-on-textbook
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1657091445111/EShVy589A.jpg
+
+---
 
 都在说人教版儿童教材的插图质量问题，我觉得有两个点似乎很少有人谈起：一是图画与信息的比例，二是想象与具像。
 
