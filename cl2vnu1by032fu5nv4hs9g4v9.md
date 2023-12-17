@@ -1,4 +1,11 @@
-## 我去纹身了，第一次，40岁，感觉不错哈哈！
+---
+title: "我去纹身了，第一次，40岁，感觉不错哈哈！"
+datePublished: Mon May 17 2021 12:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2vnu1by032fu5nv4hs9g4v9
+slug: first-tattoo
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651915464667/qPgrso0Hk.jpg
+
+---
 
 ![](https://i.imgur.com/kyRNXVw.jpg)
 
