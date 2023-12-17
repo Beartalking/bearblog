@@ -1,4 +1,10 @@
-## 玩游戏的间歇，津津有味地读一本专业书 Weekly第47周 / 狗熊有话说
+---
+title: "玩游戏的间歇，津津有味地读一本专业书 Weekly第47周 / 狗熊有话说"
+datePublished: Sun Dec 01 2019 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2u4ib8m00wu8rnv50cyg1fc
+slug: weekly47-2019
+
+---
 
 ![IMG_2655](https://i.imgur.com/3LTAgsZ.jpg)
 
