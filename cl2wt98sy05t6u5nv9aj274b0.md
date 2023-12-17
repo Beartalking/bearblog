@@ -1,4 +1,12 @@
-## What does 'senior' mean to a designer?
+---
+title: "What does 'senior' mean to a designer?"
+datePublished: Mon Mar 04 2019 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2wt98sy05t6u5nv9aj274b0
+slug: what-does-senior-mean-to-a-designer
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651985007341/WqxK03tkW.jpg
+tags: design
+
+---
 
 ![edho-pratama-149011-unsplash](https://i.imgur.com/YWHsV43.jpg)
 
