@@ -1,4 +1,12 @@
-## 如何定制你的年度阅读书单？
+---
+title: "如何定制你的年度阅读书单？"
+datePublished: Wed Jan 08 2020 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2u3vabq00us8rnv87ot9eoh
+slug: yearly-reading-list
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651821453074/kgNZDwNsl.jpg
+tags: books
+
+---
 
 ![thought-catalog-o0Qqw21-0NI-unsplash](https://i.imgur.com/M3akyOr.jpg)
 
