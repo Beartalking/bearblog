@@ -1,4 +1,11 @@
-## 【33岁后发现的生活真相】杀千刀的牛顿第二定律 | 狗熊有话说
+---
+title: "【33岁后发现的生活真相】杀千刀的牛顿第二定律 | 狗熊有话说"
+datePublished: Thu Nov 02 2017 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2vepnw1028lu5nv1l6hb2d4
+slug: newton-law-2
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651900134149/4fmGKoY3Y.jpg
+
+---
 
 ![photo-1502657877623-f66bf489d236](https://i.imgur.com/X17zCxN.jpg)
 
