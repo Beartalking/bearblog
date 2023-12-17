@@ -1,4 +1,11 @@
-## Review progress with your students together - My mentor tips
+---
+title: "Review progress with your students together - My mentor tips"
+datePublished: Fri Jan 07 2022 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2s1k8om01jrdmnvapak80l4
+slug: review-progress-with-your-students-together-my-mentor-tips
+tags: design, mentorship
+
+---
 
 ![f3863aa0285e164f99fd632f16b03938](media/16455588927523/f3863aa0285e164f99fd632f16b03938.jpeg)
 
