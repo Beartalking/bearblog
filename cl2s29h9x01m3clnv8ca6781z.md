@@ -1,4 +1,11 @@
-## 爬山的感悟：故事是驱动生产力的关键
+---
+title: "爬山的感悟：故事是驱动生产力的关键"
+datePublished: Sat Jan 29 2022 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2s29h9x01m3clnv8ca6781z
+slug: story-to-drive
+tags: business
+
+---
 
 爬了新西兰的一些山和一些徒步线路之后，才发现中国人的牛逼。
 
