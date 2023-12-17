@@ -1,4 +1,11 @@
-## 关于阅读的一些思考（1月）
+---
+title: "关于阅读的一些思考（1月）"
+datePublished: Tue Jan 04 2022 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2s1ft9401jfdmnv9yta5hv1
+slug: thoughts-on-reading-2022
+tags: books
+
+---
 
 ## 我现在如何做读书笔记
 我记录和整理读书收获的形式有过几次形式上的变化，纯文本和手绘的草图是最基础的元素。也用过很久的思维导图，现在以数字式的视觉笔记为主。
