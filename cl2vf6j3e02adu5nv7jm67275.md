@@ -1,4 +1,11 @@
-## 怎么记有用的读书笔记？
+---
+title: "怎么记有用的读书笔记？"
+datePublished: Wed Aug 09 2017 12:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2vf6j3e02adu5nv7jm67275
+slug: how-to-take-book-note
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651900921139/2b6WWlSKw.jpg
+
+---
 
 ![2d2572bf552de008a122130d31f4619b](http://i.imgur.com/EWeG5S6.jpg)
 
