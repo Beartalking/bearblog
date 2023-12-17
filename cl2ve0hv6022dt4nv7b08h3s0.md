@@ -1,4 +1,11 @@
-## 专访大狗熊 - Price Tag
+---
+title: "专访大狗熊 - Price Tag"
+datePublished: Thu Apr 26 2018 12:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2ve0hv6022dt4nv7b08h3s0
+slug: price-tag-interview
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651898959729/9dmSgaWjU.jpg
+
+---
 
 ![bearbig-2560](https://i.imgur.com/jyOAhPr.jpg)
 
