@@ -1,4 +1,11 @@
-## 悉达多，前浪后浪，一分钟，还有15年厨师经验的UX设计师 Weekly第20周 / 狗熊有话说
+---
+title: "悉达多，前浪后浪，一分钟，还有15年厨师经验的UX设计师 Weekly第20周 / 狗熊有话说"
+datePublished: Fri May 15 2020 12:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2thrn4v00kdadnv35526h8f
+slug: weekly20-2020
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651784319066/Irwqcu7AS.jpg
+
+---
 
 ![](https://i.imgur.com/8fVWlfC.jpg)
 
