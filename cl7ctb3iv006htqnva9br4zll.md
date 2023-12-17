@@ -1,4 +1,12 @@
-# How I made a children book via AI (WIP)
+---
+title: "How I made a children book via AI (WIP)"
+datePublished: Sun Aug 28 2022 04:09:03 GMT+0000 (Coordinated Universal Time)
+cuid: cl7ctb3iv006htqnva9br4zll
+slug: ai-children-book
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1661659464814/PH6bXos-Q.jpeg
+tags: ai, midjourney
+
+---
 
 I made a children book for my daughter via AI (Midjourney), which just took around 2 hours. I'm writing this post to share the thoughts, progress and tips. 
 
