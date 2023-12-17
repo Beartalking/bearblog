@@ -1,4 +1,11 @@
-## 剪羊毛表演上看到的工作哲理 Weekly第1周 / 狗熊有话说
+---
+title: "剪羊毛表演上看到的工作哲理 Weekly第1周 / 狗熊有话说"
+datePublished: Thu Jan 02 2020 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2u48bm500vw8rnv3zupf0kr
+slug: weekly1-2020
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651822045564/OK9OugulG.jpg
+
+---
 
 ![IMG_3393](https://i.imgur.com/VzRmHli.jpg)
 
