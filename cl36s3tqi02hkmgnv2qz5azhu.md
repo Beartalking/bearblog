@@ -1,4 +1,12 @@
-## A designer's balance between creative and systematic thinking
+---
+title: "A designer's balance between creative and systematic thinking"
+datePublished: Wed Apr 27 2022 12:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl36s3tqi02hkmgnv2qz5azhu
+slug: creative-and-systematic-thinking
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/ya4B273wYpE/upload/v1652587755407/dNYY1ER0A.jpeg
+tags: design
+
+---
 
 A controversial fact: a designer's work is not that "creative" - if you define creativity as an artistic way to go with the flow when doing stuff.
 
