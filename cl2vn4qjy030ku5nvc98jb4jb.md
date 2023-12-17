@@ -1,4 +1,11 @@
-## 我是如何做出一个失败的小程序的？
+---
+title: "我是如何做出一个失败的小程序的？"
+datePublished: Mon Mar 06 2017 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2vn4qjy030ku5nvc98jb4jb
+slug: a-failed-wechat-app
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651914278930/UMbSoKFgi.jpg
+
+---
 
 ![connet everything](http://i.imgur.com/AVt9BTk.jpg)
 
