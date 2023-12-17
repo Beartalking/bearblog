@@ -1,4 +1,11 @@
-## 关于iPad Pro，我今天打了自己的脸
+---
+title: "关于iPad Pro，我今天打了自己的脸"
+datePublished: Thu Jun 08 2017 12:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2vn1vhq02z5t4nv4cfd54k7
+slug: ipad-pro-review
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651914117986/Cr6cJ9_3P.jpg
+
+---
 
 ![屏幕快照 2017-06-06 下午12.03.06](http://i.imgur.com/CwonShx.jpg)
 
