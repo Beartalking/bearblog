@@ -1,4 +1,12 @@
-## 神级插画家金政基
+---
+title: "神级插画家金政基"
+datePublished: Thu Mar 17 2022 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2sr3b6d007d8dnvhk7r4jsa
+slug: kim-jung-gi
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651739541998/WzDqw36AP.jpg
+tags: art
+
+---
 
 看了一个小时的韩国插画家金政基访谈，不愧是神级画家。不过大概理解了神级水平是怎么炼成的。
 
