@@ -1,4 +1,12 @@
-## 《失落的卫星》
+---
+title: "《失落的卫星》"
+datePublished: Wed Mar 09 2022 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2srwgvg00am9envelsk566t
+slug: ameng-the-stans
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651740891811/0mAZnMUjI.jpg
+tags: books
+
+---
 
 就着半瓶雷司令，读完了刘子超的《失落的卫星》：中亚的旅行游记。如果是喝伏特加或是马奶酒可能更应景。
 
