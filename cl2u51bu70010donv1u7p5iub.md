@@ -1,4 +1,11 @@
-## 狗熊周记 Weekly Retro - 2019年第38周 / 狗熊有话说
+---
+title: "狗熊周记 Weekly Retro - 2019年第38周 / 狗熊有话说"
+datePublished: Sat Sep 21 2019 12:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2u51bu70010donv1u7p5iub
+slug: weekly38-2019
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651823423913/3-BEkuY6i.jpg
+
+---
 
 ![](https://tva1.sinaimg.cn/large/006y8mN6ly1g78gp7q0ucj30xc0m8ads.jpg)
 
