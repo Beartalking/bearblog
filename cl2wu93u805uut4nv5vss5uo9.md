@@ -1,4 +1,12 @@
-## 5 Things You Can Immediately Do When Get Laid Off From Work
+---
+title: "5 Things You Can Immediately Do When Get Laid Off From Work"
+datePublished: Thu Jun 04 2020 12:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2wu93u805uut4nv5vss5uo9
+slug: laid-off-5-things
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651986698381/qpIugvF0Y.jpg
+tags: career
+
+---
 
 ![james-yarema-z0rAZ0ghlB4-unsplash](https://i.imgur.com/knY1u4U.jpg)
 > Hero image: Photo by James Yarema on Unsplash
