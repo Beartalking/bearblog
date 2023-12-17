@@ -1,4 +1,11 @@
-## 再畸形的教育，也比不受教育强
+---
+title: "再畸形的教育，也比不受教育强"
+datePublished: Thu Aug 02 2018 12:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2wzslkb06ckt4nv7yfg69rx
+slug: qi-pao-xian
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651996015540/VZg64kpvH.jpg
+
+---
 
 ![Education](https://i.imgur.com/4x1A6as.jpg)
 
