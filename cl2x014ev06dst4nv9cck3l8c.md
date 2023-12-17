@@ -1,4 +1,11 @@
-## “饭渣”宝宝如何逆袭？
+---
+title: "“饭渣”宝宝如何逆袭？"
+datePublished: Wed Jun 13 2018 12:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2x014ev06dst4nv9cck3l8c
+slug: newborn-to-eat-tip
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651996404190/WdjmjHy-J.jpg
+
+---
 
 ![21.pi](https://i.imgur.com/fJT1lJK.jpg)
 
