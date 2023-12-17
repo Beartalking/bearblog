@@ -1,4 +1,11 @@
-## 狗熊周记 Weekly Retro - 2019年第42周 / 狗熊有话说
+---
+title: "狗熊周记 Weekly Retro - 2019年第42周 / 狗熊有话说"
+datePublished: Sat Oct 19 2019 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2u4pdzu00xp8rnv5xw644ur
+slug: weekly42-2019
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651822862228/JG2wgiq8U.jpg
+
+---
 
 ![john-moeses-bauan-OGZtQF8iC0g-unsplash](https://i.imgur.com/YnOz6Bb.jpg)
 
