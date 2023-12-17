@@ -1,4 +1,11 @@
-## 在新西兰生娃有啥不一样？
+---
+title: "在新西兰生娃有啥不一样？"
+datePublished: Tue Jun 05 2018 12:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2x08bn806ept4nv2zkx9oux
+slug: pragnent-story
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/5zp0jym2w9M/upload/v1652302088342/rWAhTcKY3.jpeg
+
+---
 
 熊爸熊妈从来没有想过，会在新西兰生一个娃。
 
