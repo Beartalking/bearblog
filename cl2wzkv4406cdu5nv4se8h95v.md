@@ -1,4 +1,11 @@
-## “想培育出能触摸星辰的想象力？从每次讲一个故事开始！” - 专访童书作家 Stu Duval
+---
+title: "“想培育出能触摸星辰的想象力？从每次讲一个故事开始！” - 专访童书作家 Stu Duval"
+datePublished: Sun Nov 25 2018 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2wzkv4406cdu5nv4se8h95v
+slug: stu-duval
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651995651438/qDv2jD-gs.jpg
+
+---
 
 ![frk-stu](https://i.imgur.com/oeg9ENy.jpg)
 
