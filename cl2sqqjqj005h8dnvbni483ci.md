@@ -1,4 +1,12 @@
-## Books that I read in Feb
+---
+title: "Books that I read in Feb"
+datePublished: Fri Mar 11 2022 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2sqqjqj005h8dnvbni483ci
+slug: books-that-i-read-in-feb-2022
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651738941373/Z-vuToKdD.jpg
+tags: books
+
+---
 
 I saw many videos on YouTube sharing, "I read one book a week for a year, and it changed my life". I don't think reading changed my life, as it is how I live my life. I've been reading one book a week for six years. Reading helps me learn new skills, explore unknown domains, or just get lost in my imagination, history, or time.
 
