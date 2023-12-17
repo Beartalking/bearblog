@@ -1,4 +1,14 @@
-## 8 things those successful job-landed UX students have: a Design Mentor's observation
+---
+title: "8 things those successful job-landed UX students have: a Design Mentor's observation"
+seoTitle: "ux design job"
+seoDescription: "how to find a ux design job"
+datePublished: Mon Aug 22 2022 09:42:57 GMT+0000 (Coordinated Universal Time)
+cuid: cl74kldwu03joncnv4vhw3j65
+slug: design-job-competencies
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1661161218907/-QEfpQqGQ.png
+tags: ux, career, product-design, mentorship, ux-design
+
+---
 
 Received a message that one of my students got a design job offer! I mentored 10+ juniors and helped them transition from different industries to land design jobs, including working at multinational companies. Here're a few things I noticed that all job-landing designers have 👇
 
