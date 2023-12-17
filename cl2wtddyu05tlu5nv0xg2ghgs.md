@@ -1,4 +1,12 @@
-## What did I learn from my first freelance UX role?
+---
+title: "What did I learn from my first freelance UX role?"
+datePublished: Sun Apr 28 2019 12:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2wtddyu05tlu5nv0xg2ghgs
+slug: what-did-i-learn-from-my-first-freelance-ux-role
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651985228724/pC7OJZKGW.jpg
+tags: design
+
+---
 
 ![](https://paper-attachments.dropbox.com/s_33F251D93D2FBBE3B29D119B24E2FFCCB82E5CAB02683D07B3315E60CFBD42D5_1556511016419_galymzhan-abdugalimov-181-unsplash.jpg)
 
