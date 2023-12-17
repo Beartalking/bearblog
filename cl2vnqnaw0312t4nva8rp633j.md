@@ -1,4 +1,11 @@
-## 世界读书日才晒读书的人，主要是赶个场吧？
+---
+title: "世界读书日才晒读书的人，主要是赶个场吧？"
+datePublished: Thu Apr 22 2021 12:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2vnqnaw0312t4nva8rp633j
+slug: world-reading-day-2021
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651915299835/--gR4VqoC.jpg
+
+---
 
 ![](https://i.imgur.com/bk3i9PN.jpg)
 
