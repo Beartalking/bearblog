@@ -1,4 +1,11 @@
-## A perfect pot or 50 pounds pots?
+---
+title: "A perfect pot or 50 pounds pots?"
+datePublished: Tue Mar 12 2019 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2wt7j9x05t3u5nvbdv3duqd
+slug: a-perfect-pot-or-50-pounds-pots
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651984927757/-XhW8l71q.jpg
+
+---
 
 Read a story in the book Lean UX which is so good that I can't wait to share.
 
