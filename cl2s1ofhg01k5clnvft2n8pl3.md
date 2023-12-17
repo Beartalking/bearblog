@@ -1,4 +1,11 @@
-## Crushing It by Gary Vaynerchuk - Book review
+---
+title: "Crushing It by Gary Vaynerchuk - Book review"
+datePublished: Wed Jan 12 2022 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2s1ofhg01k5clnvft2n8pl3
+slug: crushing-it-by-gary-vaynerchuk-book-review
+tags: productivity, books, entrepreneurship
+
+---
 
 Read Crushing It by Gary Vaynerchuk as I want to grow my YouTube channel, and found many valuable tips that are worth making a video! Here are three important tips that I've learned from this book below. If you would like to know more, check the video :)
 
