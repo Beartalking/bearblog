@@ -1,4 +1,11 @@
-## 小镇青年的社交恐惧
+---
+title: "小镇青年的社交恐惧"
+datePublished: Sat Mar 12 2022 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2sr6vfi007p8dnv9yjyb428
+slug: nervous-boy-from-little-town
+tags: networking
+
+---
 
 做饭的时候，重新看圆桌派这一期讲社交恐惧的讨论，其中有讲到很多年轻人在初出社会的时候，遇到不熟悉的环境，感觉不自信，社交焦虑无法化解。
 
