@@ -1,4 +1,11 @@
-## 让故事展开你的好奇心 - 《区块链风云》推荐序
+---
+title: "让故事展开你的好奇心 - 《区块链风云》推荐序"
+datePublished: Fri Apr 24 2020 12:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2thxvgy00xp31nv9x39hyar
+slug: predix-for-a-blockchain-book
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/jOq0bZMKzdM/upload/v1651784616936/N0WfsPHqW.jpeg
+
+---
 
 10年前，我在写自己的第一本书时，面临一个大难题：如何把枯燥甚至乏味的计算机应用技巧和概念，用生动易懂的方式讲述给读者，让他们能够理解接受，并运用到自己的实际生活中。我尝试了变换文字风格、调整插图或是大量举例，都没有达到理想的效果。写出来的样章与其他的计算机应用书籍没什么区别，而我想要写出一些不一样的东西。
 
