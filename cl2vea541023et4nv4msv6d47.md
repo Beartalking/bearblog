@@ -1,4 +1,11 @@
-## 为什么世界上有那么多喜欢“吃苦”旅行的人？
+---
+title: "为什么世界上有那么多喜欢“吃苦”旅行的人？"
+datePublished: Sun Feb 04 2018 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2vea541023et4nv4msv6d47
+slug: tangario-trek
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651899399328/Qkff-JcpQ.jpg
+
+---
 
 ![ORG_DSC04603](https://i.imgur.com/uvloafC.jpg)
 
