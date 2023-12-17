@@ -1,4 +1,11 @@
-## 在魔幻时代一如既往地认真生活 Weekly第4周 / 狗熊有话说
+---
+title: "在魔幻时代一如既往地认真生活 Weekly第4周 / 狗熊有话说"
+datePublished: Sun Jan 26 2020 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2u3erl900sf8rnvhras6a53
+slug: weekly4-2020
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651820672885/D-jJWLz6i.jpg
+
+---
 
 ![IMG_3768](https://i.imgur.com/FbszXyd.jpg)
 
