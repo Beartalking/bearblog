@@ -1,4 +1,11 @@
-## 我们的孩子再也看不到巴黎圣母院了？
+---
+title: "我们的孩子再也看不到巴黎圣母院了？"
+datePublished: Fri Apr 19 2019 12:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2wv3zal05z0u5nvhr0j103j
+slug: paris-fire
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651988138634/Au4lg4TuV.jpg
+
+---
 
 ![rita-chou-1518246-unsplash](https://i.imgur.com/BOFZwmf.jpg)
 
