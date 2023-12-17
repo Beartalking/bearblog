@@ -1,4 +1,11 @@
-# 量子力学是一种思维方式
+---
+title: "量子力学是一种思维方式"
+datePublished: Thu Nov 03 2022 00:25:11 GMT+0000 (Coordinated Universal Time)
+cuid: clax6y4a8000608ju7mvkh6y5
+slug: quantum-physics-thinking
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/xJLN32FO7AY/upload/v1669422285816/bHS36UIVb.jpeg
+
+---
 
 上周看了圆桌派关于量子力学的一期节目，其中郝景芳的一句话对我触动很大：窦文涛问她量子力学有什么用，她说这种认知其实是一种思维方式，贯穿我们生活中的方方面面。我仔细一想，的确是这样。
 比如最近有朋友问我如何能找到自己真心想做的事业。以往我可能会说，调研啊，分析自我啊，之类，但现在我忽然发现，这是个量子力学问题。就像量子力学里观察会影响结果一样，调研和寻找本身，也会影响你的结果。
