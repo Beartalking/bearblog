@@ -1,4 +1,11 @@
-## 练出了适应开会的能力
+---
+title: "练出了适应开会的能力"
+datePublished: Mon Mar 07 2022 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2srz77e00b68dnvbobveh18
+slug: how-to-survive-from-meetings
+tags: productivity
+
+---
 
 今天一天开了接近五个小时的会，而且一半是workshop这种高强度脑力的会，也慢慢习惯了，虽然肯定还是很累。
 
