@@ -1,4 +1,12 @@
-## 《不可打扰》Indistractable
+---
+title: "《不可打扰》Indistractable"
+datePublished: Fri Jan 21 2022 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2s1u4zk01kmclnveulxe6bz
+slug: indistractable
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651697119438/C-tpNKgkR.jpg
+tags: productivity, books
+
+---
 
 斯坦福消费心理学老师Nir Eyal的书《不可打扰》（Indistactable）这周读完了，总耗时7小时。感觉还行，不如《Make Time》和《Digital Minimalism》，但也有一些启发，比如对于日历的重度使用。
 
