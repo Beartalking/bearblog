@@ -1,4 +1,11 @@
-## Silly doodle for staying positive
+---
+title: "Silly doodle for staying positive"
+datePublished: Wed Feb 23 2022 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2ssavy00006nhnvhkx2gxtr
+slug: silly-doodle-for-staying-positive
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651741571313/8g3Enqpy5.jpg
+
+---
 
 So many negative things these days, and I decided to stay positive (not that positive!) I also wanted to transfer that attitude and nudge people to focus on good things, and I did it with a silly mask🤪
 
