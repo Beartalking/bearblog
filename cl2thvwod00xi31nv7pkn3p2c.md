@@ -1,4 +1,12 @@
-## 比特币：随便聊几句
+---
+title: "比特币：随便聊几句"
+datePublished: Sun Apr 26 2020 12:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2thvwod00xi31nv7pkn3p2c
+slug: about-bitcoin
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/aX1hN4uNd-I/upload/v1651784534588/qSbaYKJCR.jpeg
+tags: bitcoin, cryptocurrency
+
+---
 
 聊比特币，很容易一开始就聊到它的技术属性，但对于非技术领域的朋友来说，看了一堆关于比特币的文章或书，对于「区块链」啊，「挖矿」之类的概念还没搞清楚，就突然被告知这东西值钱，而且很值钱，甚至还有可能越来越值钱，的确我们只能用自己目前具备的常识去判断，就是：不靠谱！
 
