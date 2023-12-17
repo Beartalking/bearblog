@@ -1,4 +1,12 @@
-## 全球疫情持续的第二年，我读完了53本书（附带书单推荐）
+---
+title: "全球疫情持续的第二年，我读完了53本书（附带书单推荐）"
+datePublished: Sun Dec 26 2021 08:58:17 GMT+0000 (Coordinated Universal Time)
+cuid: cl2su6524001i0anvfox7dumj
+slug: read-53-books-2021
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651744688517/fc0U6r-KN.png
+tags: books
+
+---
 
 ![Book List  2021](https://i.imgur.com/blHzW7t.png)
 ## 基本总结
