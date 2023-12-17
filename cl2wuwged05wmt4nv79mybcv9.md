@@ -1,4 +1,12 @@
-## 🏜 A simple tip to make you a productive master
+---
+title: "🏜 A simple tip to make you a productive master"
+datePublished: Fri Nov 12 2021 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2wuwged05wmt4nv79mybcv9
+slug: a-simple-tip-to-make-you-a-productive-master
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/n9u9ZEoH2yM/upload/v1652129555147/kkHbX4BBv.jpeg
+tags: productivity
+
+---
 
 I have a full-time job, one on one mentoring five design students, making YouTube videos and podcasts every week, reading 50 books each year, and I just wrote a book in 3 months. By the way, I have a 4-year-old to take care of and don't get me started on the housework, cooking, and all sort of those other things. I think I'm productive, but recently, I just found a tip that can fundamentally improve my productivity to a brand new level. What's that? Let's talk about this on BearTalk!
 
