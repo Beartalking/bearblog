@@ -1,4 +1,12 @@
-## 第一次英文演讲大型分享的感受
+---
+title: "第一次英文演讲大型分享的感受"
+datePublished: Mon May 24 2021 12:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2vnvhx2032pu5nvfm190unu
+slug: ux-auckland-2021
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651915523789/wOzGRhUD9.jpg
+tags: career, networking
+
+---
 
 ![](https://i.imgur.com/Y3EEFRT.jpg)
 
