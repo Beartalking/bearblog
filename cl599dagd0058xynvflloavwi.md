@@ -1,4 +1,11 @@
-## 我如何设计自己的微信阅读流程
+---
+title: "我如何设计自己的微信阅读流程"
+datePublished: Fri May 27 2022 07:07:53 GMT+0000 (Coordinated Universal Time)
+cuid: cl599dagd0058xynvflloavwi
+slug: how-i-read-wechat-content
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1657091230637/qgVCXMGAX.jpg
+
+---
 
 我（部分）离开微信有两个重要的步骤：关闭查看朋友圈，将微信里看到的文章导出到Instapaper阅读。随便写几句，分享一下后者先。
 
