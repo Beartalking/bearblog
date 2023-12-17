@@ -1,4 +1,11 @@
-## 加班：你的脆弱成全了公司的反脆弱
+---
+title: "加班：你的脆弱成全了公司的反脆弱"
+datePublished: Wed Jan 06 2021 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2vnnc7i030pt4nv9ak49ijr
+slug: 996-antifragile
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651915142889/t1-dfUCTO.jpg
+
+---
 
 ![](https://i.imgur.com/HMigrDi.jpg)
 
