@@ -1,4 +1,11 @@
-## 一种西方男人一遇到就崩溃，女人一听到就嗤笑的重病…… | 狗熊有话说
+---
+title: "一种西方男人一遇到就崩溃，女人一听到就嗤笑的重病…… | 狗熊有话说"
+datePublished: Thu Sep 14 2017 12:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2vf0cgt0298u5nvchtth6qx
+slug: man-flu
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651900629406/skqNWc-RG.jpg
+
+---
 
 周末啦，写点轻松的，来聊聊我在工作中学到的一个词：Man Flu！
 
