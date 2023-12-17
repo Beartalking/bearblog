@@ -1,4 +1,11 @@
-## 带宝宝长途飞行12个小时不哭闹的秘诀就在这里……
+---
+title: "带宝宝长途飞行12个小时不哭闹的秘诀就在这里……"
+datePublished: Wed Aug 01 2018 12:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2wztt2u06dru5nvfd7p0oj2
+slug: travel-with-kid
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651996070497/vHuFikU0H.png
+
+---
 
 ![vlog244](https://i.imgur.com/MQG1Z74.png)
 
