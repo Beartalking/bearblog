@@ -1,4 +1,12 @@
-## 如何运用刻意练习原则来做100个俯卧撑，再背10000个单词？
+---
+title: "如何运用刻意练习原则来做100个俯卧撑，再背10000个单词？"
+datePublished: Wed Dec 06 2017 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2vejrim027uu5nv1ejlfmtp
+slug: 100-pushups-by-peak
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651899854335/wxOCscVLt.png
+tags: productivity
+
+---
 
 ![Jordan Whitfield](https://i.imgur.com/EZCFD0U.png)
 
