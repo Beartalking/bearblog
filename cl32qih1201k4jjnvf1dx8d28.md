@@ -1,4 +1,11 @@
-## A reflection on Wen Chuan Earthquake
+---
+title: "A reflection on Wen Chuan Earthquake"
+datePublished: Thu May 12 2022 08:14:17 GMT+0000 (Coordinated Universal Time)
+cuid: cl32qih1201k4jjnvf1dx8d28
+slug: wenchuan-2022
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1652343222902/tzy2mkgI-.jpg
+
+---
 
 ![wen chuan](https://i.imgur.com/vTSIK59.jpg)
 
