@@ -1,4 +1,12 @@
-## Learn 30 essential UX Design terminologies in just 30 minutes?
+---
+title: "Learn 30 essential UX Design terminologies in just 30 minutes?"
+datePublished: Wed May 04 2022 09:23:12 GMT+0000 (Coordinated Universal Time)
+cuid: cl2rdga5l00ms8vnv95lec9ik
+slug: 1min-ux
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651656115950/9-xYGqtEa.jpg
+tags: design, ux
+
+---
 
 
 As a self-taught UX/Product designer, I know how hard it is to learn UX from scratch. The primary blocker for almost every learner is the terminologies. There are **SO many terminologies to get familiar with in the UX domain**, and it's really overwhelming. 
