@@ -1,4 +1,12 @@
-## 大狗熊的2020年度计划阅读书单
+---
+title: "大狗熊的2020年度计划阅读书单"
+datePublished: Sun Jan 05 2020 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2u45h8o00vl8rnvgi78gfze
+slug: 2020-readlist
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/BPXSTl_HBhk/upload/v1651821937033/PCVSm_Gs4.jpeg
+tags: books
+
+---
 
 书名：**Digital Minimalism**
 
