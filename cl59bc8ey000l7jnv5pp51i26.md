@@ -1,4 +1,11 @@
-## 30 Under 30 sucks!
+---
+title: "30 Under 30 sucks!"
+datePublished: Thu Jun 30 2022 08:03:06 GMT+0000 (Coordinated Universal Time)
+cuid: cl59bc8ey000l7jnv5pp51i26
+slug: 30-under-30-sucks
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/y6fTK4k2J6c/upload/v1657094564270/a7RPNrOvz.jpeg
+
+---
 
 I don't like those 20 under 20s, 30 under 30s campaigns. Media contributes a lot to people's anxiety nowadays, and those lists are really good examples.
 
