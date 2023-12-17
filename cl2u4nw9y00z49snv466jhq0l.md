@@ -1,4 +1,11 @@
-## 狗熊周记 Weekly Retro - 2019年第43周 / 狗熊有话说
+---
+title: "狗熊周记 Weekly Retro - 2019年第43周 / 狗熊有话说"
+datePublished: Sat Oct 26 2019 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2u4nw9y00z49snv466jhq0l
+slug: weekly43-2019-1
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651822783978/rBbg_jd7K.jpg
+
+---
 
 ![liam-pozz-HZvGtncWvyQ-unsplash](https://i.imgur.com/7kj23nO.jpg)
 
