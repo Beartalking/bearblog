@@ -1,4 +1,11 @@
-## 终于成为了佛系大叔 Weekly第49周 / 狗熊有话说
+---
+title: "终于成为了佛系大叔 Weekly第49周 / 狗熊有话说"
+datePublished: Sat Dec 14 2019 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2u4f8kf00xy9snvd5owg81w
+slug: weekly49-2019
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651822383804/pqEkGRcC0.jpg
+
+---
 
 ![novi-raj-LcDpX2mYzoo-unsplash](https://i.imgur.com/CQ5xexC.jpg)
 
