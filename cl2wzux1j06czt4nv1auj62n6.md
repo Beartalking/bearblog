@@ -1,4 +1,11 @@
-## 如何看待给孩子打疫苗这件事？
+---
+title: "如何看待给孩子打疫苗这件事？"
+datePublished: Sat Jul 21 2018 12:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2wzux1j06czt4nv1auj62n6
+slug: kid-vaccine
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651996119551/eWd0KzHmF.jpg
+
+---
 
 ![daniel-frank-201416](https://i.imgur.com/uIHhGVr.jpg)
 
