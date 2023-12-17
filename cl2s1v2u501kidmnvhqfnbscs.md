@@ -1,4 +1,11 @@
-## Good Omens
+---
+title: "Good Omens"
+datePublished: Sat Jan 22 2022 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2s1v2u501kidmnvhqfnbscs
+slug: good-omens
+tags: books
+
+---
 
 听完了由BBC制作的Good Omens的广播剧，简直颠覆了我对广播剧的认知。完全制作程度堪比一部大电影所有出场的人都有特定的角色，一听声音就能够辨识出相应的人，哪怕是配角都一个不落，更不要说精心制作的音效、转场等等……一句话，就是一部电影或者是舞台剧的制作标准。
 
