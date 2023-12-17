@@ -1,4 +1,11 @@
-## 购买付费知识内容后，是真能有效提升还是只是原地踏步？
+---
+title: "购买付费知识内容后，是真能有效提升还是只是原地踏步？"
+datePublished: Wed Aug 02 2017 12:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2vf8fr802alu5nvau52h7ij
+slug: pay-knowledge-course
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651901005528/OJayZq3UE.jpg
+
+---
 
 ![thumb-knowledge](http://i.imgur.com/jm5essp.jpg)
 
