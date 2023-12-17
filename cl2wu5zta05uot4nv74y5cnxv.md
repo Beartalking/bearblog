@@ -1,4 +1,12 @@
-## Design your UX roadmap before starting a UX career
+---
+title: "Design your UX roadmap before starting a UX career"
+datePublished: Sat Feb 22 2020 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2wu5zta05uot4nv74y5cnxv
+slug: design-your-ux-roadmap-before-starting-a-ux-career
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651986561212/1te1wGxrg.jpg
+tags: design, career
+
+---
 
 ![tabea-damm-9-xfYKAI6ZI-unsplash](https://i.imgur.com/jsQzpOF.jpg)
 
