@@ -1,4 +1,12 @@
-# 跟老板学到的职场沟通技巧：提问、避免独白和“我不知道”
+---
+title: "跟老板学到的职场沟通技巧：提问、避免独白和“我不知道”"
+seoTitle: "communication tips for professionals"
+datePublished: Fri Dec 16 2022 03:56:57 GMT+0000 (Coordinated Universal Time)
+cuid: clbpzb8qj000608jmf9rqdihi
+slug: 3-communication-tips
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1671162974897/NDixqdye3.jpeg
+
+---
 
 我在新西兰从事用户体验和产品设计，公司有几十名设计师分布在新西兰、澳洲、美国和英国，有很多可以学习的东西。我最有收获的学习机会是每周和经理进行一对一会议，有时谈论工作问题，有时分享个人建议，有时只是聊聊家常。我从经理身上学到了很多沟通技巧，特别是英文沟通技巧，这些技巧可以应用于几乎所有的专业领域。这里分享3个很实用的沟通技巧。
 
