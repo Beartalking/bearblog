@@ -1,4 +1,11 @@
-## First Homeowner
+---
+title: "First Homeowner"
+datePublished: Wed Jan 05 2022 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2s1hqk401jsclnv6buc7w7m
+slug: first-homeowner
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651696522414/dIraIhv6X.jpg
+
+---
 
 ![](https://i.imgur.com/HB6PMxI.jpg)One of the achievements that my wife and I did in 2021 is becoming a first-time homeowner in New Zealand - a country we arrived in 6 years ago. It was such a journey! I learned many lessons during the process, and many people helped us. Would like to share a few things I've learned from being a homeowner and hopefully, it might be helpful for people who are on a similar journey:
 
