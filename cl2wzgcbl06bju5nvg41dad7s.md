@@ -1,4 +1,11 @@
-## 孩子问你“为什么要努力学习”，你会怎么回答她？
+---
+title: "孩子问你“为什么要努力学习”，你会怎么回答她？"
+datePublished: Mon Feb 18 2019 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2wzgcbl06bju5nvg41dad7s
+slug: how-to-answer-kid-question-on-hard-working
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651988406554/lsQovOXFx.jpg
+
+---
 
 ![imagination-a-trippy-short-stop](https://i.imgur.com/jFFwhFo.jpg)
 
