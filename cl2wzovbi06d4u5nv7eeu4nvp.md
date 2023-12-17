@@ -1,4 +1,11 @@
-## 最有戏精气质的奶爸：新西兰视频网红 How To Dad 教你如何喜庆式带娃！
+---
+title: "最有戏精气质的奶爸：新西兰视频网红 How To Dad 教你如何喜庆式带娃！"
+datePublished: Sat Sep 01 2018 12:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2wzovbi06d4u5nv7eeu4nvp
+slug: how-to-dad
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651995840214/-IjvdrjfR.jpg
+
+---
 
 ![4142](https://i.imgur.com/3v2F6ua.jpg)
 
