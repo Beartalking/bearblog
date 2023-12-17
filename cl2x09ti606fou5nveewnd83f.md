@@ -1,4 +1,11 @@
-## “懒爸懒妈”带大的孩子更出色？
+---
+title: "“懒爸懒妈”带大的孩子更出色？"
+datePublished: Sun Jun 03 2018 12:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2x09ti606fou5nveewnd83f
+slug: lazy-parent-lazy-kids
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651996808138/h4j6OevLo.jpg
+
+---
 
 ![12.pic_hd](https://i.imgur.com/TFrU4XM.jpg)
 
