@@ -1,4 +1,11 @@
-## 尝试禁食，发现世界的联系，并且找了份新工作 Weekly第23-24周 / 狗熊有话说
+---
+title: "尝试禁食，发现世界的联系，并且找了份新工作 Weekly第23-24周 / 狗熊有话说"
+datePublished: Sat Jun 13 2020 12:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2tho1z500wo31nvckk415dp
+slug: weekly23-24-2020
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651784157499/3f9_zsCsE.jpg
+
+---
 
 ![IMG_5211](https://i.imgur.com/l7Fkqk6.jpg)
 > 奥克兰的Chelsea Sugar糖厂夜景
