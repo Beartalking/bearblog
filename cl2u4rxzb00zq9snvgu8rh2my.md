@@ -1,4 +1,11 @@
-## 狗熊周记 Weekly Retro - 2019年第40周 / 狗熊有话说
+---
+title: "狗熊周记 Weekly Retro - 2019年第40周 / 狗熊有话说"
+datePublished: Sat Oct 05 2019 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2u4rxzb00zq9snvgu8rh2my
+slug: weekly40-2019
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651822984374/1cWDkOAnc.jpg
+
+---
 
 ![todd-quackenbush-IClZBVw5W5A-unsplash](https://i.imgur.com/eloz0Hj.jpg)
 
