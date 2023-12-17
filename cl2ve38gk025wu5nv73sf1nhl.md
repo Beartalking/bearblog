@@ -1,4 +1,11 @@
-## “读书”更广义的意义，应该是拓展自己对世界的认知
+---
+title: "“读书”更广义的意义，应该是拓展自己对世界的认知"
+datePublished: Sun Apr 22 2018 12:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2ve38gk025wu5nv73sf1nhl
+slug: why-we-read-2018
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651899079672/BVY5UY-7K.jpg
+
+---
 
 ![alfons-morales-410757](https://i.imgur.com/GqyRpMh.jpg)
 
