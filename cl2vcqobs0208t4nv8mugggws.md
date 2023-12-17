@@ -1,4 +1,11 @@
-## 我的2018电影盘点
+---
+title: "我的2018电影盘点"
+datePublished: Wed Dec 19 2018 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2vcqobs0208t4nv8mugggws
+slug: movielist-2018
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651896818420/Owox_bL4S.jpg
+
+---
 
 ![maxresdefault](https://i.imgur.com/Qm3rBHO.jpg)
 
