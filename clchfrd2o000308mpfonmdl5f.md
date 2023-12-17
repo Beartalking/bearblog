@@ -1,4 +1,14 @@
-# Differentiating Human-Made Content in the Age of AI
+---
+title: "Differentiating Human-Made Content in the Age of AI"
+seoTitle: "In the age of AI, hand-drawn doodles are a powerful tool"
+seoDescription: "In the age of AI, hand-drawn doodles are a powerful tool for content creators, providing a unique and creative perspective that cannot be replicated."
+datePublished: Wed Jan 04 2023 09:07:09 GMT+0000 (Coordinated Universal Time)
+cuid: clchfrd2o000308mpfonmdl5f
+slug: human-value-in-ai-age
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1672822989523/9c44d525-8caf-44cc-9423-e144ecc232f9.jpeg
+tags: ai, midjourney, chatgpt
+
+---
 
 I’ve tried a few AI options for creating content, including Midjourney, ChatGPT and Notion AI. A big question: in this age where AI can generate pixel-perfect images and well-refined copy in a few seconds, what’s the value of humans creating stuff? What could be the differentiator?
 
