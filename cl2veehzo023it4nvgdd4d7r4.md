@@ -1,4 +1,11 @@
-## 我为什么要翻墙回国以及具体如何弄 ? | 狗熊有话说
+---
+title: "我为什么要翻墙回国以及具体如何弄 ? | 狗熊有话说"
+datePublished: Tue Jan 09 2018 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2veehzo023it4nvgdd4d7r4
+slug: back-to-wall
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651899614545/wq7CWhbXi.jpg
+
+---
 
 ![adi-goldstein-325095](https://i.imgur.com/EIWvEYu.jpg)
 
