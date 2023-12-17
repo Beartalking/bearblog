@@ -1,4 +1,12 @@
-## 高强度英文开会7小时，不觉得崩溃的秘诀是……
+---
+title: "高强度英文开会7小时，不觉得崩溃的秘诀是……"
+datePublished: Sun Mar 01 2020 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2tib3tm00lradnvhim40a9s
+slug: meeting-tips-2020
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651785223722/YGwldY9M4.jpg
+tags: productivity
+
+---
 
 昨天上班时间8小时，加上一早上班前去参加的Toastmaster活动，我这天有7个小时在开会！如果让三年前国内的自己听到这个日程，估计想死的心都会有（都开会了，不做事了么）。如果一年前的我，也会同样想屎（英文会听又听不懂，说又说不出，急死人了）
 
