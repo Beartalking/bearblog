@@ -1,4 +1,12 @@
-## Answer these 4 questions to find and do the work you love!
+---
+title: "Answer these 4 questions to find and do the work you love!"
+datePublished: Tue May 26 2020 12:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2wu7sef05wlu5nv1ju585ou
+slug: ikigai
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651986646759/IFaPi675q.jpg
+tags: career
+
+---
 
 ![ikigai-cover](https://i.imgur.com/mbjX47u.jpg)
 
