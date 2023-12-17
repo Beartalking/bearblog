@@ -1,4 +1,12 @@
-## 2018 年我读了 550 本书！
+---
+title: "2018 年我读了 550 本书！"
+datePublished: Wed Jan 02 2019 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2u57ie60028donv61hp5bls
+slug: 2018-booklist
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651823700693/LDDFSEJTn.jpg
+tags: books
+
+---
 
 ![freestocks-org-626904-unsplash](https://i.imgur.com/H8cKeX4.jpg)
 
