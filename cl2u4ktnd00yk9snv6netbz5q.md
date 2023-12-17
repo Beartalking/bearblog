@@ -1,4 +1,11 @@
-## 合同工的事业规划得更好？Weekly第43周 / 狗熊有话说
+---
+title: "合同工的事业规划得更好？Weekly第43周 / 狗熊有话说"
+datePublished: Sat Nov 09 2019 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2u4ktnd00yk9snv6netbz5q
+slug: weekly43-2019
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651822647568/VDoYg1YgR.jpg
+
+---
 
 ![31D170E0-8C43-41BB-98DF-F681198CBDF5](https://i.imgur.com/SYXthvT.jpg)
 
