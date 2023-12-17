@@ -1,4 +1,12 @@
-## 2020年，我做到了（几乎）每周读一本英文书 | 狗熊有话说
+---
+title: "2020年，我做到了（几乎）每周读一本英文书 | 狗熊有话说"
+datePublished: Mon Dec 28 2020 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2su8sqp00281bnv180nbx6v
+slug: 2020-reading-review
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/caND1D-Kh9Y/upload/v1651744789334/JQds4VIeT.jpeg
+tags: books
+
+---
 
 这一年读了54本书，其中9本中文书，45本英文书。15本是“传统式”的阅读 - 阅读电子版，剩下的39本，都是通过有声书的方式进行的阅读。
 
