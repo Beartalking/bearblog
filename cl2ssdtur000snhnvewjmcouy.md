@@ -1,4 +1,10 @@
-## 年轻时应该多看片多看书
+---
+title: "年轻时应该多看片多看书"
+datePublished: Fri Feb 18 2022 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2ssdtur000snhnvewjmcouy
+slug: more-movies-and-books-when-young
+
+---
 
 在年轻时（大学、刚刚工作还没结婚这段时间），真的应该多看点电影，多读读闲书。
 
