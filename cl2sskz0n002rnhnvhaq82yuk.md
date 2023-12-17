@@ -1,4 +1,11 @@
-## 关注的热点越多，越不容易快乐
+---
+title: "关注的热点越多，越不容易快乐"
+datePublished: Mon Feb 07 2022 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2sskz0n002rnhnvhaq82yuk
+slug: noice-lead-to-unhappy
+tags: productivity
+
+---
 
 关注的热点越多，越不容易快乐。我这个观点是有根据的。
 
