@@ -1,4 +1,11 @@
-## 为了孩子移民，他们后悔了吗？
+---
+title: "为了孩子移民，他们后悔了吗？"
+datePublished: Thu Oct 25 2018 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2wzmc2j06cru5nv4l6nfsmx
+slug: regret-to-immigrate-for-kids
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651995710403/JtJsJZquL.jpg
+
+---
 
 ![Dating-Divorced-Dad](https://i.imgur.com/CZJH7Lc.jpg)
 
