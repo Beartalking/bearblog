@@ -1,4 +1,11 @@
-# 冒雨堵车三小时，为什么还要主动选择去公司上班？
+---
+title: "冒雨堵车三小时，为什么还要主动选择去公司上班？"
+datePublished: Mon Jan 30 2023 21:15:40 GMT+0000 (Coordinated Universal Time)
+cuid: cldjb8dpt000209l87goh4i12
+slug: working-auckland-floods
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/qsLlwLXqdnU/upload/3004479611bb5ff406dc008b33974e9a.jpeg
+
+---
 
 上个星期五是奥克兰近70年来最大降雨量的一天，也是我这两三个月来第一次去公司上班的一天。真会选日子……下班，我花了近两个小时才从公司开车回到家（平常只需要30-40分钟）。在我回到家不久，高速公路就因为强降雨而关闭了。
 
