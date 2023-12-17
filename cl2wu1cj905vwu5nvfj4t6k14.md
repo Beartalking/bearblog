@@ -1,4 +1,12 @@
-## Talk more and louder than I was
+---
+title: "Talk more and louder than I was"
+datePublished: Sun Jul 21 2019 12:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2wu1cj905vwu5nvfj4t6k14
+slug: talk-more-and-louder-than-i-was
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651986340333/MtYxcys_f.jpg
+tags: design
+
+---
 
 ![Virtual_Les-Mills_BodyPump_1-810x405](https://i.imgur.com/4lE6hhV.jpg)
 
