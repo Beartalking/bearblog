@@ -1,4 +1,12 @@
-## Make a product fun, simple and solid
+---
+title: "Make a product fun, simple and solid"
+datePublished: Fri Dec 31 2021 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2s17ki801j3clnvhkui0999
+slug: make-a-product-fun-simple-and-solid
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651696190738/Hx5cG_ULM.jpg
+tags: design, product
+
+---
 
 I'm excited when I see a housefly at home 🪰
 
