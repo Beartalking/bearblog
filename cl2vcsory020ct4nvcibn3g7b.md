@@ -1,4 +1,11 @@
-## 新西兰中文先驱报专访：拿银蕨签移民的it男，一个优秀技术宅的自我养成
+---
+title: "新西兰中文先驱报专访：拿银蕨签移民的it男，一个优秀技术宅的自我养成"
+datePublished: Thu Oct 25 2018 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2vcsory020ct4nvcibn3g7b
+slug: nzharald-interview
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651896897732/rlWZY5K1x.jpg
+
+---
 
 ![Stdgz](media/15405251681910/StdgzR2.jpg)
 
