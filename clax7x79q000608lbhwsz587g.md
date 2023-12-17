@@ -1,4 +1,11 @@
-# 人是不可能胜天的
+---
+title: "人是不可能胜天的"
+datePublished: Tue Nov 22 2022 00:52:28 GMT+0000 (Coordinated Universal Time)
+cuid: clax7x79q000608lbhwsz587g
+slug: fatahupur-sikri
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/k-qVaIqSIsg/upload/v1669423924502/u0VqyraIU.jpeg
+
+---
 
 讲个故事：10年前我去印度旅行，在阿格拉市（就是有泰姬陵的那座城）距离开车2小时左右的地方，有一座古城“法塔赫布尔·锡格里”。
 
