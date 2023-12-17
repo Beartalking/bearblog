@@ -1,4 +1,12 @@
-## 焊在甲板上的假期
+---
+title: "焊在甲板上的假期"
+datePublished: Sat Jan 08 2022 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2s1m3en01k0clnv2lca9k7n
+slug: deck-stain
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651696725007/jeA0KzfUG.jpeg
+tags: personal
+
+---
 
 这个元旦假期基本都在“甲板”上：打算在夏天把deck的维护做完，雨季不容易损伤。YouTube查了资料，Mitre10买了工具，找朋友借了高压水枪，但实际动起手来才知道这些手艺活儿干起来不简单。
 
