@@ -1,4 +1,11 @@
-## 直面嫉妒 - 我的反思
+---
+title: "直面嫉妒 - 我的反思"
+datePublished: Tue Jul 19 2022 18:51:31 GMT+0000 (Coordinated Universal Time)
+cuid: cl5sj7w8d0704scnv8pak3f3b
+slug: jealous
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/-TQUERQGUZ8/upload/v1658256509182/iZJwZJLJ4.jpeg
+
+---
 
 今天一早醒来，感觉就非常丧，无心工作，打不起精神。家人问起，我说可能是因为自己一直在家工作快有半年，缺乏状态的变换。但后来我直视自己的内心，发现这不是原因。真正的源头，是一个很隐秘的原因：我的一名同事升职为资深设计师了，而我没有。我的内心深处，产生了一丝嫉妒。
 
