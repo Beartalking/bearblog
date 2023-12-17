@@ -1,4 +1,11 @@
-## Will you be my mentor?
+---
+title: "Will you be my mentor?"
+datePublished: Sun Feb 13 2022 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2ssh1i4001mnhnv5b894djp
+slug: will-you-be-my-mentor
+tags: mentor, design, mentorship
+
+---
 
 If you want to find a mentor for your career development, there's one question you should never ask, "will you be my mentor?" Especially on LinkedIn or any other social media channels.
 
