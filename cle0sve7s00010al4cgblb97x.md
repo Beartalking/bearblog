@@ -1,4 +1,12 @@
-# What is the user interview, and why do we need it? - Book review for Interviewing Users
+---
+title: "What is the user interview, and why do we need it? - Book review for Interviewing Users"
+datePublished: Thu Jun 06 2019 04:01:09 GMT+0000 (Coordinated Universal Time)
+cuid: cle0sve7s00010al4cgblb97x
+slug: what-is-the-user-interview-and-why-do-we-need-it-book-review-for-interviewing-users-1
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1676170801953/a5588c09-61da-4817-ad7a-dbce256e456e.avif
+tags: ux, ux-design, ux-research
+
+---
 
 Designers, engineers, marketers, content creators...we all need to learn how to interview users and learn things from them. Interviewing Users provides many examples and case studies for you, which is great.
 
