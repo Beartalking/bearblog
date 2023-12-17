@@ -1,4 +1,11 @@
-# 2022年读完的40本书里，我推荐这13本给你
+---
+title: "2022年读完的40本书里，我推荐这13本给你"
+datePublished: Fri Dec 30 2022 09:47:16 GMT+0000 (Coordinated Universal Time)
+cuid: clcabzotf000e08l756t3aim2
+slug: 2022-book-review
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1672393588215/60d81887-78a7-4fd4-977f-cd547b09aad9.jpeg
+
+---
 
 每年年底总结回顾一下自己这一年读过的书，是我的个人传统。2022年和以往一样，非虚构类阅读占了大头，虚构类的以科幻为主。这里各选出5本虚构和非虚构，再加上3本视觉类的书籍，构成我这一年的阅读回顾。
 
