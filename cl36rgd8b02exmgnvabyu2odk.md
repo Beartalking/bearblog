@@ -1,4 +1,12 @@
-## 不要把工作与自己的价值挂钩
+---
+title: "不要把工作与自己的价值挂钩"
+datePublished: Wed Apr 13 2022 12:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl36rgd8b02exmgnvabyu2odk
+slug: work-is-not-all-your-value
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/QBpZGqEMsKg/upload/v1652586677483/5pufGJ96y.jpeg
+tags: career
+
+---
 
 前几天和朋友聊天，说起“不要把工作和自己的价值挂钩”，大家的问题是“怎么做？”how啊？
 
