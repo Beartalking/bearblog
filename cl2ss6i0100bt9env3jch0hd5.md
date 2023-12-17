@@ -1,4 +1,11 @@
-## 从餐厅服务员到Master Card的用户体验设计研究员
+---
+title: "从餐厅服务员到Master Card的用户体验设计研究员"
+datePublished: Sun Feb 27 2022 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2ss6i0100bt9env3jch0hd5
+slug: erin-ux
+tags: career
+
+---
 
 我想分享一下之前我教的学生Erin的故事：
 
