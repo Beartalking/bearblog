@@ -1,4 +1,11 @@
-## 狗熊周记 Weekly Retro - 2019年第35周 / 狗熊有话说
+---
+title: "狗熊周记 Weekly Retro - 2019年第35周 / 狗熊有话说"
+datePublished: Sat Aug 31 2019 12:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2u5517z000pepnvezty7vch
+slug: weekly35-2019
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651823595163/q9kKw3OaF.jpg
+
+---
 
 ![cover](https://i.imgur.com/9HqGyyS.jpg)
 
