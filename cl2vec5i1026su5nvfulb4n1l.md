@@ -1,4 +1,12 @@
-## 2018 年，来一起探索这 12 个精彩的世界？ / 狗熊月读
+---
+title: "2018 年，来一起探索这 12 个精彩的世界？ / 狗熊月读"
+datePublished: Sun Dec 17 2017 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2vec5i1026su5nvfulb4n1l
+slug: readwithbear-12-books-2018
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651899494834/gFVIUtuWI.jpg
+tags: books
+
+---
 
 ![Artboard 5 Copy](https://i.imgur.com/IJcAT63.jpg)
 
