@@ -1,4 +1,12 @@
-## 经营自己的个人品牌
+---
+title: "经营自己的个人品牌"
+datePublished: Sat Mar 19 2022 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2sr22d9006s9env4lzo1fpg
+slug: personal-branding
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651739471652/qJkM90YXf.jpg
+tags: career
+
+---
 
 从去年开始，我慢慢在Xero内部形成了“能画手绘的家伙”的个人品牌。
 
