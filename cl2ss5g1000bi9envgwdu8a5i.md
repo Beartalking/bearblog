@@ -1,4 +1,11 @@
-## 4小时做了3期英文视频
+---
+title: "4小时做了3期英文视频"
+datePublished: Wed Mar 02 2022 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2ss5g1000bi9envgwdu8a5i
+slug: make-3-videos-in-4-hours
+tags: productivity
+
+---
 
 每周我会进行一项个人的项目，根据难度分类，各自有自己的storypoint（是的，我在用敏捷来管理自己的个人项目，不过这是另外的话题了）
 
