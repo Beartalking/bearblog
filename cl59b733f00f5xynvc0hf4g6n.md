@@ -1,4 +1,11 @@
-## 需要多输入和输出英文内容了
+---
+title: "需要多输入和输出英文内容了"
+datePublished: Mon Jun 13 2022 07:59:02 GMT+0000 (Coordinated Universal Time)
+cuid: cl59b733f00f5xynvc0hf4g6n
+slug: more-english-content
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/fhEkwsRgMNQ/upload/v1657094313582/CUh1hSskl.jpeg
+
+---
 
 虽然我已经开始在英文环境分享内容，但现在回顾一下，可能比重还是不够。
 
