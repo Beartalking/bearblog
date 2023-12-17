@@ -1,4 +1,12 @@
-## What my design process taught me
+---
+title: "What my design process taught me"
+datePublished: Tue Apr 09 2019 12:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2wtavbz05tdu5nvfd1c69hh
+slug: what-my-design-process-taught-me
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/GkinCd2enIY/upload/v1651985111726/sRKwuqaIm.jpeg
+tags: design
+
+---
 
 I'm a designer, and my Bachelor degree is B.S (Bachelor of Science). My primary subject at the university was Applied Physics. So the most frequently asked question in my professional career is 'how did you become a designer from a physics student?'
 
