@@ -1,4 +1,12 @@
-## Case Study: WeShare Plus
+---
+title: "Case Study: WeShare Plus"
+datePublished: Thu Nov 22 2018 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2wt2z5905s1t4nv2l2of7u4
+slug: case-study-weshare-plus
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651984717454/RUMvVeZPp.jpg
+tags: design
+
+---
 
 ![weshare-015](https://i.imgur.com/FE5Epkm.jpg)
 
