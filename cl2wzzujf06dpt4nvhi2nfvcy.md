@@ -1,4 +1,11 @@
-## 最后幸存者：月子期的奶爸生存指南
+---
+title: "最后幸存者：月子期的奶爸生存指南"
+datePublished: Wed Jun 20 2018 12:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2wzzujf06dpt4nvhi2nfvcy
+slug: newborn-dad
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651996352481/TJ0vhTJnV.jpg
+
+---
 
 ![Postpartum-Depression-in-New-Dads](https://i.imgur.com/VW481LA.jpg)
 
