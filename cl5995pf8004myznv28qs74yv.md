@@ -1,4 +1,11 @@
-## Problems mean opportunities: I moved my podcast to a new platform
+---
+title: "Problems mean opportunities: I moved my podcast to a new platform"
+datePublished: Fri May 20 2022 07:02:03 GMT+0000 (Coordinated Universal Time)
+cuid: cl5995pf8004myznv28qs74yv
+slug: problems-mean-opportunities
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1657090883107/OTQe69t3r.png
+
+---
 
 Problems mean opportunities - that's so true.
 ![Screen Shot 2022-07-06 at 7.00.32 PM](https://i.imgur.com/UCJPuLb.png)
