@@ -1,4 +1,11 @@
-## 跟《复仇者联盟》的导演学习个人管理与灵感收集
+---
+title: "跟《复仇者联盟》的导演学习个人管理与灵感收集"
+datePublished: Mon Mar 26 2018 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2ve4sn30267u5nve5g6cgg2
+slug: joss-wheton-inspiration
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651899144456/CEKLvcaC_.webp
+
+---
 
 ![1](https://images.fastcompany.net/image/upload/w_1153,ar_16:9,c_fill,g_auto,f_auto,q_auto,fl_lossy/fc/1683167-poster-inline-5-joss-whedon-on-how-to-be-prolific.jpg)
 
