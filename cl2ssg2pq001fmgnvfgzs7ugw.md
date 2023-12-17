@@ -1,4 +1,12 @@
-## 打造经理（The Making of a Manager）
+---
+title: "打造经理（The Making of a Manager）"
+datePublished: Tue Feb 15 2022 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2ssg2pq001fmgnvfgzs7ugw
+slug: the-making-of-a-manager
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651741814686/wKviQDilv.jpg
+tags: books
+
+---
 
 ![](https://i.imgur.com/jip9iFI.jpg)
 
