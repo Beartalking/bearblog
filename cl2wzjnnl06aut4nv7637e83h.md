@@ -1,4 +1,11 @@
-## 多读书对于孩子有多重要？可能你根本无法想象……
+---
+title: "多读书对于孩子有多重要？可能你根本无法想象……"
+datePublished: Sun Dec 09 2018 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2wzjnnl06aut4nv7637e83h
+slug: how-to-encourage-kid-to-read-more
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651995586061/CLe8fZHvG.jpg
+
+---
 
 ![event-01](https://i.imgur.com/Kmf3aT7.jpg)
 
