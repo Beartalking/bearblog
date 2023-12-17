@@ -1,4 +1,11 @@
-## 周三晚上写出来的《魔戒》Weekly第2周 / 狗熊有话说
+---
+title: "周三晚上写出来的《魔戒》Weekly第2周 / 狗熊有话说"
+datePublished: Sat Jan 11 2020 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2u3ttpe00uo8rnv32pw08yp
+slug: weekly2-2020
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651821390247/vWl8ky6st.jpg
+
+---
 
 ![5e908bfbly1gas8fyndwgj20u01407wq](https://i.imgur.com/xIuqtws.jpg)
 
