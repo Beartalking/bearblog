@@ -1,4 +1,11 @@
-## 来到一个英语国家两年多之后，我打算重新开始学英语！
+---
+title: "来到一个英语国家两年多之后，我打算重新开始学英语！"
+datePublished: Tue Jan 08 2019 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2wzia9k06buu5nvawdyblb1
+slug: start-learning-english-again
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651995519493/XIFy0TxsG.jpg
+
+---
 
 ### 国内 “英语学霸”，出国变成渣渣？
 
