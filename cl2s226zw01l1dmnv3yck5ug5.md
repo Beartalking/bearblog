@@ -1,4 +1,10 @@
-## 自然界和软件行业
+---
+title: "自然界和软件行业"
+datePublished: Mon Jan 24 2022 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2s226zw01l1dmnv3yck5ug5
+slug: thoughts-on-software-and-nature
+
+---
 
 我发现自然界和软件行业真的很多共同之处。
 
