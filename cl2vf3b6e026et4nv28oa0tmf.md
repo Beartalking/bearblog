@@ -1,4 +1,11 @@
-## 昆明，一座仍在做梦的城市
+---
+title: "昆明，一座仍在做梦的城市"
+datePublished: Wed Aug 16 2017 12:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2vf3b6e026et4nv28oa0tmf
+slug: kunming-still-dreaming
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651900773716/0cX5OqDq9.jpg
+
+---
 
 ![28081](http://i.imgur.com/tQVznHm.jpg)
 
