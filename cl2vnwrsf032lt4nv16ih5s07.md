@@ -1,4 +1,12 @@
-## 信息处理的快与慢
+---
+title: "信息处理的快与慢"
+datePublished: Sun Jun 06 2021 12:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2vnwrsf032lt4nv16ih5s07
+slug: info-process-fast
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651915585520/MY6w46QI8.jpeg
+tags: productivity
+
+---
 
 ![](media/16519144552714/16519144758585.jpg)
 
