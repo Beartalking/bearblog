@@ -1,4 +1,12 @@
-## 🛕 Case study: Help 100K+ instructors to learn new moves on a larger screen
+---
+title: "🛕 Case study: Help 100K+ instructors to learn new moves on a larger screen"
+datePublished: Sun Jun 07 2020 12:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2wuv3ah05wjt4nv9j8h77hl
+slug: case-study-les-mills-releases-app
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651987703387/iI9AfmaMp.png
+tags: design, ux
+
+---
 
 **Watch and Read design for Les Mills Releases app**
 
