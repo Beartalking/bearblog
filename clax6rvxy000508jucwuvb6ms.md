@@ -1,4 +1,11 @@
-# 老父亲的全职带娃感受：如何培养孩子的潜力
+---
+title: "老父亲的全职带娃感受：如何培养孩子的潜力"
+datePublished: Sun Oct 30 2022 00:20:19 GMT+0000 (Coordinated Universal Time)
+cuid: clax6rvxy000508jucwuvb6ms
+slug: how-to-build-child-potential
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/sA5wcAu4CBA/upload/v1669421988303/ZYVDTSd-i.jpeg
+
+---
 
 最近女儿学校放假，我请假全职带了几天娃，有一些关于带娃的感受。
 培养孩子的兴趣和潜力，是父母的责任。就我的理解，有两个方面可以做：第一是发掘孩子的天赋，也就是孩子天生就具备的一些能力。比如像我家Molly，很喜欢和别人交流，经常去游乐场看到跟自己同龄的人，都会主动和人家讲话，也不觉得尴尬。对于我来说，这是一项需要刻意练习才能掌握的能力，但对她来说就是天赋。作为父母观察孩子的天赋，然后有意识地给她创造机会，去发展这样的天赋，是第一个方面。
