@@ -1,4 +1,11 @@
-## 减个毛线肥，活着更重要 Weekly第18周 / 狗熊有话说
+---
+title: "减个毛线肥，活着更重要 Weekly第18周 / 狗熊有话说"
+datePublished: Sat May 02 2020 12:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2thucer00x931nv8n7r571d
+slug: weekly18-2020
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651784467761/K1JvH7hAq.jpg
+
+---
 
 ![IMG_5995](https://i.imgur.com/OpQ7FI8.jpg)
 
