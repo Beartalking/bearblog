@@ -1,4 +1,11 @@
-# “移民是一场关于改变的经历”
+---
+title: "“移民是一场关于改变的经历”"
+datePublished: Mon Oct 03 2022 00:11:16 GMT+0000 (Coordinated Universal Time)
+cuid: clax6gwnu000108jugyuz058g
+slug: immigrant-mind
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/v0Gnw01m8Zw/upload/v1669421511477/gcwG4szGw.jpeg
+
+---
 
 在网上看到两个大V吵架：王小山扬言要杀王志安 - 都是老王家的，都在日本，还那么大仇……本来不想谈这种人家吵架的事儿，但这事和海外华人的心态有关，所以讲讲自己的一些观点。
 在国内稍微有一点事业或是影响力的人，移居海外必然会经历巨大的心理落差。因为文化语言的隔阂，与当地环境格格不入，只能关注有限的网络空间，思维可能也还是局限在以往自己在做的事情或领域。这我很能理解。我在刚来到新西兰的几年前，一开始当然也有这种巨大的心理落差。
