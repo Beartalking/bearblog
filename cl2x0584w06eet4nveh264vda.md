@@ -1,4 +1,11 @@
-## 如何克服“当爹恐惧症”？【视频】
+---
+title: "如何克服“当爹恐惧症”？【视频】"
+datePublished: Wed Jun 06 2018 12:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2x0584w06eet4nveh264vda
+slug: dad-fear
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651996602852/VFWPo0omG.png
+
+---
 
 ![FRKV02](https://i.imgur.com/DK7TCYI.png)
 
