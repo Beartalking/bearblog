@@ -1,4 +1,11 @@
-## 几分钟了解五本书：失去我的童贞，对话技巧，公开演讲，极简居家设计，卓越工作 / 狗熊有话说
+---
+title: "几分钟了解五本书：失去我的童贞，对话技巧，公开演讲，极简居家设计，卓越工作 / 狗熊有话说"
+datePublished: Fri Apr 17 2020 12:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2ti219v00kxadnv4j7vdbhy
+slug: books-04-2020
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651784796043/fHZoHM_WW.jpg
+
+---
 
 ![](https://i.imgur.com/OswvjHX.jpg)
 
