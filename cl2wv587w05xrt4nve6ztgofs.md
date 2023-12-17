@@ -1,4 +1,11 @@
-## 好好学英语，可能是你对孩子教育做出的最重要决定
+---
+title: "好好学英语，可能是你对孩子教育做出的最重要决定"
+datePublished: Wed Apr 03 2019 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2wv587w05xrt4nve6ztgofs
+slug: learn-english-for-your-kid
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651988201566/CXs3wU96H.jpg
+
+---
 
 ![C9y0DE](https://i.imgur.com/R2gsHHR.jpg)
 
