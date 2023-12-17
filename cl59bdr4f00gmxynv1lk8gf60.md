@@ -1,4 +1,11 @@
-## 随便说说娃的兴趣班
+---
+title: "随便说说娃的兴趣班"
+datePublished: Mon Jul 04 2022 08:04:18 GMT+0000 (Coordinated Universal Time)
+cuid: cl59bdr4f00gmxynv1lk8gf60
+slug: kid-class
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/lP_FbBkMn1c/upload/v1657094644955/yTULFR8lI.jpeg
+
+---
 
 目前给娃上了钢琴（中+西）、游泳、体操、中文。听起来很鸡娃，其实真的都是兴趣，或者说基本都是玩。有的是从时间和投入这个阶段学比较合适，比如游泳，学了两年，现在水性已经很不错了，她自己也很喜欢。有的是需要有意识地学习，比如中文。
 
