@@ -1,4 +1,11 @@
-## 双十一到了，不买什么东西会比较划算？
+---
+title: "双十一到了，不买什么东西会比较划算？"
+datePublished: Thu Nov 09 2017 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2vemz14024mt4nvgcg22i8a
+slug: double-eleven-not-buy-things
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651899980549/Zu1XDcLlz.jpg
+
+---
 
 ![juan-ignacio-tapia-2316](https://i.imgur.com/yez0d2U.jpg)
 
