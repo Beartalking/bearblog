@@ -1,4 +1,11 @@
-## 我的年度图书10佳 Weekly第50周 / 狗熊有话说
+---
+title: "我的年度图书10佳 Weekly第50周 / 狗熊有话说"
+datePublished: Thu Dec 26 2019 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2u4b72g00xe9snvdi2sg10y
+slug: weekly50-2019
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651822199672/IgZGUIWQc.jpg
+
+---
 
 ![eugenio-mazzone-6ywyo2qtaZ8-unsplash](https://i.imgur.com/lLM8cfy.jpg)
 
