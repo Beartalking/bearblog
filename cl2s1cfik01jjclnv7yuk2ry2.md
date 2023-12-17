@@ -1,4 +1,11 @@
-## 每天一篇英文推文
+---
+title: "每天一篇英文推文"
+datePublished: Sun Jan 02 2022 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2s1cfik01jjclnv7yuk2ry2
+slug: daily-english-post
+tags: writing
+
+---
 
 我今年有一项想要培养一下的每日习惯：工作日时每天在LinkedIn写一篇英文短文。
 
