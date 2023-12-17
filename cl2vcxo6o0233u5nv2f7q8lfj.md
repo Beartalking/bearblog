@@ -1,4 +1,11 @@
-## 订阅号更新信息流：你不是在为微信写作
+---
+title: "订阅号更新信息流：你不是在为微信写作"
+datePublished: Wed Jun 20 2018 12:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2vcxo6o0233u5nv2f7q8lfj
+slug: dont-write-for-wechat-2018
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651897149233/PoeYhM8bP.jpg
+
+---
 
 ![2018-06-21_1](https://i.imgur.com/j7UzxP6.jpg)
 
