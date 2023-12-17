@@ -1,4 +1,11 @@
-## 沟通的初心是善意 Weekly第9周 / 狗熊有话说
+---
+title: "沟通的初心是善意 Weekly第9周 / 狗熊有话说"
+datePublished: Sat Feb 29 2020 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2ti9cun00lmadnv76k19364
+slug: weekly9-2020
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651785169480/5g7yspgfw.jpg
+
+---
 
 ![IMG_4361](https://i.imgur.com/2wpugqb.jpg)
 
