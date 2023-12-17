@@ -1,4 +1,12 @@
-## 玩家一号：一部宅男版的“达芬奇密码”
+---
+title: "玩家一号：一部宅男版的“达芬奇密码”"
+datePublished: Sun Mar 04 2018 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2ve5wmq026bu5nvh0373erc
+slug: ready-player-one
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1651899218516/A4C6HBRuN.jpg
+tags: vr
+
+---
 
 ![ready-player-one](https://i.imgur.com/3sRsLyI.jpg)
 
