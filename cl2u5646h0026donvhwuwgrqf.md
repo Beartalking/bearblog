@@ -1,4 +1,10 @@
-## 拓展你的舒适区
+---
+title: "拓展你的舒适区"
+datePublished: Sat Jul 27 2019 12:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2u5646h0026donvhwuwgrqf
+slug: comfort-zone
+
+---
 
 人的不适应和舒适区是会变化的，当我们身处不舒服的状态时，要提醒自己这一点：这是成长过程的一部分，每个人都会体会到，且最终一定会走出去。
 
