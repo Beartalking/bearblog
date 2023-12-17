@@ -1,4 +1,10 @@
-## 一句话的帮助
+---
+title: "一句话的帮助"
+datePublished: Sun Mar 20 2022 11:00:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl2sr0m6u006d9env7iq7815x
+slug: empathy-with-peer
+
+---
 
 今天工作上感觉很有成就感，不是因为具体做了什么新的设计，而是因为一个小小的与同事互动的举动。
 
