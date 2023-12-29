@@ -2,7 +2,7 @@
 title: "2023年，我的内容创作回顾"
 datePublished: Mon Dec 25 2023 11:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: clqprvbhg000208l6btc7a28i
-slug: 2023
+slug: 2023-content-creation-review
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1703802155432/625bc9f4-1ed7-4cd5-ac62-044154a793b6.jpeg
 tags: content-creation, beartalk, 2023review
 
