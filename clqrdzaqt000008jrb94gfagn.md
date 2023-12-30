@@ -2,7 +2,7 @@
 title: "2023年的18个收获"
 datePublished: Sat Dec 30 2023 01:30:55 GMT+0000 (Coordinated Universal Time)
 cuid: clqrdzaqt000008jrb94gfagn
-slug: 202318
+slug: 2023-highlights
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1703899803519/9d694e91-2e44-497f-a5a3-36114887eab2.jpeg
 tags: review, personal, 2023
 
