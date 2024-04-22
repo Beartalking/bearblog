@@ -2,7 +2,7 @@
 title: "如何突破英文口语（7年海外工作实践经验）"
 datePublished: Mon Apr 22 2024 22:05:45 GMT+0000 (Coordinated Universal Time)
 cuid: clvbiaf4a000x0ajx3uv09pq4
-slug: 7
+slug: speaking-english-8-tips
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1713823405407/7417dde3-f4f7-4999-a2bc-77730cac1598.webp
 tags: how-to, english
 
