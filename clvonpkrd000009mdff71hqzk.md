@@ -3,6 +3,7 @@ title: "Readwise Reader Custom Summary: A Game Changer! (and how to set your pro
 datePublished: Thu May 02 2024 02:58:31 GMT+0000 (Coordinated Universal Time)
 cuid: clvonpkrd000009mdff71hqzk
 slug: readwise-summary
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1714618736448/7cad69ff-852a-4378-abc7-6bafcffc6fd0.jpeg
 tags: ai, summary, readwise
 
 ---
