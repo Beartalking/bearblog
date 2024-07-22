@@ -14,13 +14,13 @@ I want to share two examples of using AI that didn't go as planned. Initially, t
 
 One day, I saw a trending video on Twitter from a famous Chinese TV show. It was a dramatic meme recreated as a learning video. Why not try this in another language? So, I took the famous scene from the movie "Taken" and used it to introduce generative AI. I spent about an hour creating, testing, and sharing it on LinkedIn and other social media. The result? Zero interaction. People didn't engage with it like they do with my other posts 😞
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/431eba7e-7268-483b-8228-c67b75be9938/a18ed862-8082-467f-9731-b970524b7aa9/Untitled.png align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1721643487896/3c756fa4-96a8-4b63-8776-d3cb38d75894.png align="center")
 
 **Example 2: The Infographic**
 
 I learned about a prompt that generates cartoon-style images from realistic photos. After testing, I created an image using Nvidia's CEO, Jensen Huang's profile picture. It would be interesting to assemble a shareable piece, so I made a timeline for NVIDIA featuring this image as the primary visual element. I shared it on social media, but my performance on Twitter and LinkedIn could have been better. Considering I spent almost two hours on this(a whole night's time for a working dad), the return on investment (ROI) was disappointing.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/431eba7e-7268-483b-8228-c67b75be9938/cd6ddefd-73c4-4b15-a126-e36864b2a137/Untitled.png align="left")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1721643501055/2cfaff32-9339-4f13-9418-b1103fb6ba91.png align="center")
 
 Here are my learnings from these two failed experiments:
 
