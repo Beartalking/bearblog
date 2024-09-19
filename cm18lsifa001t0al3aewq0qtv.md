@@ -3,12 +3,12 @@ title: "《黑神话：悟空》我的通关感受：再续西游！"
 datePublished: Thu Sep 19 2024 01:18:44 GMT+0000 (Coordinated Universal Time)
 cuid: cm18lsifa001t0al3aewq0qtv
 slug: wukong
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1726708665563/6af19887-b64a-4645-baff-8c4cdd25f10c.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1726709228350/0c5c02f3-b02a-45f7-a71e-3258952cd68f.jpeg
 tags: games, gaming, black-myth-wukong
 
 ---
 
-从8月20日《黑神话：悟空》发售开始，我就迫不及待地入手了，到现在已经玩了一个月，70多个小时（一算的话平均每天2个多小时？！都可以做个小项目了哈哈），通关了所有BOSS，解锁了绝大部分隐藏要素，还把所有角色的影神图故事都看了一遍。不得不说，这款游戏在制作、美术、玩法和故事方面都非常精致。原本打算做一期播客来聊聊心得，但最终还是决定写个帖子，随便记录一下我的体验，就当是个总结吧。
+8月20日《黑神话：悟空》正式发售，我就迫不及待地入手了，到现在已经玩了一个月，70多个小时（一算的话平均每天2个多小时？！都可以做个小项目了哈哈），通关了所有BOSS，解锁了绝大部分隐藏要素，还把所有角色的影神图故事都看了一遍。不得不说，这款游戏在制作、美术、玩法和故事方面都非常精致。原本打算做一期播客来聊聊心得，但最终还是决定写个帖子，随便记录一下我的体验，就当是个总结吧。
 
 ### 西游母题与全球共鸣
 
