@@ -3,11 +3,10 @@ title: "Google I/O：技术的破坏性创新、科技行业中个体的未来�
 datePublished: Sun May 25 2025 00:02:44 GMT+0000 (Coordinated Universal Time)
 cuid: cmb2wa1bk000509l4h7ou3bm0
 slug: google-io-2025
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1748131437770/3d37e891-6a6b-4fc5-8ca1-08ec574d5866.png
 tags: google-io, ai, google
 
 ---
-
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1748131311869/b460437d-e6c7-455d-a8c8-7a5901b4103b.jpeg align="center")
 
 我与来自 Google 的黄莘老师，就Google I/O的发布会，分享了各自的一些看法。从亲历AI Mode上线、到如何看待设计师和程序员们的职业未来，这是一场有温度的职业与时代观察。结果因为Space的技术问题，音频与视频都没有正常录制保存！就用这篇文字记录一下吧。
 
