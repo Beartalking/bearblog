@@ -2,7 +2,7 @@
 title: "2025 阅读年度回顾：从"机械外骨骼"回归"肌肉训练""
 datePublished: Thu Jan 01 2026 09:20:30 GMT+0000 (Coordinated Universal Time)
 cuid: cmjv8ilbc000602la64y4bkvd
-slug: 2025-1
+slug: 2025-book-review
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1767259165194/34c0b6c2-4688-44f8-983a-62c62500d810.jpeg
 tags: book, books, reading
 
