@@ -3,6 +3,7 @@ title: "45 岁：离开系统之后"
 datePublished: Tue Apr 28 2026 04:05:49 GMT+0000 (Coordinated Universal Time)
 cuid: cmoi3skn4000002l741uf1ygk
 slug: 45-leaving-the-system
+cover: https://res.cloudinary.com/dypkcf109/image/upload/v1777349071/obsidian/wrdfkcl7sktqppcppo9i.jpg
 tags: life, freedom, reflection, birthday, solopreneur
 
 ---
